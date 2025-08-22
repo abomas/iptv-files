@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TR - TRT 1 UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/trt1hd.png" group-title="Others",TR - TRT 1 UHD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/259872
+#EXTINF:-1 tvg-id="TRT2.tr" tvg-name="TR - TRT 2 UHD" tvg-logo="http://103.176.90.118/picons/logos/ASIA/TRT-2.png" group-title="Others",TR - TRT 2 UHD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/1069641
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="TR - KANAL D UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/kanald.png" group-title="Others",TR - KANAL D UHD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/259876
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="TR - SHOW TV UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/showtv.jpg" group-title="Others",TR - SHOW TV UHD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/259877
+#EXTINF:-1 tvg-id="tr.Diyanet TV HD" tvg-name="TR - TRT DIYANET" tvg-logo="http://103.176.90.118/picons-dino/logos/trtdiyanet.png" group-title="Others",TR - TRT DIYANET
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/259916
+#EXTINF:-1 tvg-id="tr.TRT MÜZİK" tvg-name="TR - TRT MUZIK" tvg-logo="http://103.176.90.118/picons-dino/logos/trtmuzik.png" group-title="Others",TR - TRT MUZIK
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/259921
+#EXTINF:-1 tvg-id="tr.TRT HABER" tvg-name="TR - TRT HABER UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/trthaberhd.png" group-title="Others",TR - TRT HABER UHD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/259933
+#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="TR - TRT BELGESEL UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/trtbelgeselhd.png" group-title="Others",TR - TRT BELGESEL UHD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/260046
+#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="TR - TRT BELGESEL" tvg-logo="http://103.176.90.118/picons-dino/logos/trtbelgesel.png" group-title="Others",TR - TRT BELGESEL
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/260047
+#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="TR - TRT BELGESEL" tvg-logo="http://103.176.90.118/picons-dino/logos/trtbelgesel.png" group-title="Others",TR - TRT BELGESEL
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/260048
+#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-name="TR - TRT SPOR FHD" tvg-logo="http://103.176.90.118/picons-dino/logos/trtsporhd.png" group-title="Others",TR - TRT SPOR FHD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/260092
+#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-name="TR - TRT SPOR UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/trtsporhd.png" group-title="Others",TR - TRT SPOR UHD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/260093
+#EXTINF:-1 tvg-id="TRTSpor2.tr" tvg-name="TR - TRT SPORT 2 UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/trtsporhd.png" group-title="Sports",TR - TRT SPORT 2 UHD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/260094
+#EXTINF:-1 tvg-id="" tvg-name="KU - TRT KURDI" tvg-logo="http://103.176.90.118/picons/logos/trtkurdi.jpg" group-title="Others",KU - TRT KURDI
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/588412
+#EXTINF:-1 tvg-id="" tvg-name="ALB - KANAL D DRAMA" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/KANAL-D-DRAMA.png" group-title="Others",ALB - KANAL D DRAMA
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/262150
+#EXTINF:-1 tvg-id="KanalD.ro" tvg-name="RO - KANAL D" tvg-logo="https://logo.protv.cc/piconsnew/kanald.png" group-title="Others",RO - KANAL D
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/262303
+#EXTINF:-1 tvg-id="" tvg-name="EN - The Great Turkey Town Miracle (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zWBWN84pFibFAe9w0ePpOx8QYQb.jpg" group-title="Others",EN - The Great Turkey Town Miracle (2023)
+http://2k.asstvs.com:80/movie/6727278d4d628/73e2629a74/1202033.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DE - The Turkey Bowl (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5tKPOLHHoyQ0McYrY6WQAXMHTsJ.jpg" group-title="Others",DE - The Turkey Bowl (2019)
+http://2k.asstvs.com:80/movie/6727278d4d628/73e2629a74/1228692.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EX - The Turkey Bowl (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/krQII57RN1MxfusFykv8cGVHisl.jpg" group-title="Others",EX - The Turkey Bowl (2019)
+http://2k.asstvs.com:80/movie/6727278d4d628/73e2629a74/987597.mkv

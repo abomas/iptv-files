@@ -1,0 +1,791 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS GLOBAL ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/bein/BEIN-SPORTS.png" group-title="Sports",8K - BEIN SPORTS GLOBAL ᴴᴰ
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/1178454
+#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS GLOBAL SD" tvg-logo="http://51.158.145.100/picons/logos/bein/BEIN-SPORTS.png" group-title="Sports",8K - BEIN SPORTS GLOBAL SD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/1178434
+#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS GLOBAL LQ" tvg-logo="http://51.158.145.100/picons/logos/bein/BEIN-SPORTS.png" group-title="Sports",8K - BEIN SPORTS GLOBAL LQ
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/1178417
+#EXTINF:-1 tvg-id="" tvg-name="8K - BEIN SPORTS GLOBAL ᴿᴬᵂ" tvg-logo="http://51.158.145.100/picons/logos/bein/BEIN-SPORTS.png" group-title="Sports",8K - BEIN SPORTS GLOBAL ᴿᴬᵂ
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/1178387
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS GLOBAL ᵁᴴᴰ 8K" tvg-logo="http://51.158.145.100/picons/logos/bein/BEIN-SPORTS-GLOBAL.png" group-title="Sports",BEIN SPORTS GLOBAL ᵁᴴᴰ 8K
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/1016906
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS GLOBAL ULTRA FHD" tvg-logo="http://51.158.145.100/picons/logos/bein/BEIN-SPORTS-GLOBAL.png" group-title="Sports",BEIN SPORTS GLOBAL ULTRA FHD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/550401
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS GLOBAL 4K" tvg-logo="http://51.158.145.100/picons/logos/bein/BEIN-SPORTS-GLOBAL.png" group-title="Sports",BEIN SPORTS GLOBAL 4K
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/653633
+#EXTINF:-1 tvg-id="" tvg-name="EG - CBC ◉" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/CBC.png" group-title="Others",EG - CBC ◉
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/620253
+#EXTINF:-1 tvg-id="" tvg-name="EG - CBC DRAMA ◉" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/CBCDRAMA.png" group-title="Others",EG - CBC DRAMA ◉
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/620252
+#EXTINF:-1 tvg-id="" tvg-name="EG - CBC SOFRA ◉" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/CBCSOFRA.png" group-title="Others",EG - CBC SOFRA ◉
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/620251
+#EXTINF:-1 tvg-id="" tvg-name="CH - COPTIC TV CTV" tvg-logo="http://51.158.145.100/picons/logos/AFRICA/CHRISTIAN.png" group-title="Others",CH - COPTIC TV CTV
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/629493
+#EXTINF:-1 tvg-id="" tvg-name="ES - IB3 GLOBAL" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/IB3-GLOBAL.png" group-title="Others",ES - IB3 GLOBAL
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/1207509
+#EXTINF:-1 tvg-id="" tvg-name="ES - IBIZA GLOBAL TV" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/IBIZA-GLOBAL.png" group-title="Others",ES - IBIZA GLOBAL TV
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/505787
+#EXTINF:-1 tvg-id="" tvg-name="BE - ACTV HD" tvg-logo="http://51.158.145.100/picons/logos/logos/ACTV.png" group-title="Others",BE - ACTV HD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/721854
+#EXTINF:-1 tvg-id="tr.HABER GLOBAL HD" tvg-name="TR - GLOBAL HABER UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/globalhaber.png" group-title="Others",TR - GLOBAL HABER UHD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/259940
+#EXTINF:-1 tvg-id="" tvg-name="ALB - HIMUSICTV" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/MUSICTV.png" group-title="Music",ALB - HIMUSICTV
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/811758
+#EXTINF:-1 tvg-id="" tvg-name="ALB - ACTV" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/ACTV.png" group-title="Others",ALB - ACTV
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/831222
+#EXTINF:-1 tvg-id="" tvg-name="RO - ETNICTV FHD" tvg-logo="http://103.176.90.118/picons-dino/logos/CROMTEL-TV.png" group-title="Others",RO - ETNICTV FHD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/262348
+#EXTINF:-1 tvg-id="" tvg-name="BY - CTV" tvg-logo="http://103.176.90.118/picons/logos/logos/CTV.png" group-title="Others",BY - CTV
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/1149242
+#EXTINF:-1 tvg-id="" tvg-name="BG - MAGICTV" tvg-logo="http://epg.cloudns.org/tv/logos/magictv.png" group-title="Others",BG - MAGICTV
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/263452
+#EXTINF:-1 tvg-id="" tvg-name="UA - ICTV" tvg-logo="http://103.176.90.118/picons-dino/logos/ictv.png" group-title="Others",UA - ICTV
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/263652
+#EXTINF:-1 tvg-id="" tvg-name="LAT - DIRECTV SPORTS 1" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/4e/22/03/4e22035c-a29b-4f4e-9382-1f68860ec97e/source/256x256bb.jpg" group-title="Sports",LAT - DIRECTV SPORTS 1
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/628277
+#EXTINF:-1 tvg-id="" tvg-name="LAT - DIRECTV SPORTS 2" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/4e/22/03/4e22035c-a29b-4f4e-9382-1f68860ec97e/source/256x256bb.jpg" group-title="Sports",LAT - DIRECTV SPORTS 2
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/628276
+#EXTINF:-1 tvg-id="" tvg-name="LAT - DIRECTV SPORTS UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/DirecTV_Sports_HD.png" group-title="Sports",LAT - DIRECTV SPORTS UHD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/265279
+#EXTINF:-1 tvg-id="" tvg-name="##### |CA| CANADA #####" tvg-logo="http://51.158.145.100/picons/logos/logos/CANADA.png" group-title="Others",##### |CA| CANADA #####
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/627033
+#EXTINF:-1 tvg-id="" tvg-name="CA - CBC ST JOHN'S HD" tvg-logo="http://51.158.145.100/picons/logos/USA/CBC-WEST.png" group-title="Others",CA - CBC ST JOHN'S HD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/780635
+#EXTINF:-1 tvg-id="CBCNews.ca" tvg-name="CA - CBC NEWS HD" tvg-logo="https://logo.protv.cc/piconsnew/cbctv.png" group-title="News",CA - CBC NEWS HD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/627017
+#EXTINF:-1 tvg-id="CBCCBMTMontreal.ca" tvg-name="CA - CBC MONTREAL HD" tvg-logo="http://51.158.145.100/picons/logos/USA/CBC-MONTREAL.png" group-title="Others",CA - CBC MONTREAL HD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/627016
+#EXTINF:-1 tvg-id="CBCOttawa.ca" tvg-name="CA - CBC OTTAWA HD" tvg-logo="http://51.158.145.100/picons/logos/USA/CBC-OTTAWA.png" group-title="Others",CA - CBC OTTAWA HD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/627015
+#EXTINF:-1 tvg-id="CBC.ca" tvg-name="CA - CBC TORONTO HD" tvg-logo="http://103.176.90.118/picons-dino/logos/CBC-TORONTO-HD.png" group-title="Others",CA - CBC TORONTO HD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/627014
+#EXTINF:-1 tvg-id="" tvg-name="CA - CBC CHARLOTTETOWN HD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/CBC.png" group-title="Others",CA - CBC CHARLOTTETOWN HD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/830916
+#EXTINF:-1 tvg-id="CBHT.ca" tvg-name="CA - CBC HALIFAX HD" tvg-logo="http://103.176.90.118/picons/logos/CBC-HALIFAX-HD.png" group-title="Others",CA - CBC HALIFAX HD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/834564
+#EXTINF:-1 tvg-id="CBUT.ca" tvg-name="CA - CBC VANCOUVER HD" tvg-logo="http://51.158.145.100/picons/logos/USA/CBC-VANCOUVER.png" group-title="Others",CA - CBC VANCOUVER HD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/627013
+#EXTINF:-1 tvg-id="CBCCBMTMontreal.ca" tvg-name="CA - CBC MONTREAL 4K" tvg-logo="http://51.158.145.100/picons/logos/USA/CBC-MONTREAL.png" group-title="Others",CA - CBC MONTREAL 4K
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/627010
+#EXTINF:-1 tvg-id="CBCCBMTMontreal.ca" tvg-name="CA - CBC MONTREAL" tvg-logo="http://51.158.145.100/picons/logos/USA/CBC-MONTREAL.png" group-title="Others",CA - CBC MONTREAL
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/627009
+#EXTINF:-1 tvg-id="" tvg-name="CA - CBC EDMONTON HD" tvg-logo="http://51.158.145.100/picons/logos/USA/CBC-EDMONTON.png" group-title="Others",CA - CBC EDMONTON HD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/709014
+#EXTINF:-1 tvg-id="" tvg-name="CA - CBC FREDERICTON HD" tvg-logo="http://51.158.145.100/picons/logos/USA/CBC-FREDERICTON.png" group-title="Others",CA - CBC FREDERICTON HD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/804304
+#EXTINF:-1 tvg-id="" tvg-name="CA - CBC WINNIPEG HD" tvg-logo="http://51.158.145.100/picons/logos/USA/CBC-WEST.png" group-title="Others",CA - CBC WINNIPEG HD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/816969
+#EXTINF:-1 tvg-id="" tvg-name="CA - CBC YELLOWKNIFE HD" tvg-logo="http://picons.cmshulk.com/picons/cbc.png" group-title="Others",CA - CBC YELLOWKNIFE HD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/1278330
+#EXTINF:-1 tvg-id="CITV.ca" tvg-name="CA - GLOBAL EDMONTON HD" tvg-logo="http://51.158.145.100/picons/logos/logos/GLOBAL-EDMONTON.png" group-title="Others",CA - GLOBAL EDMONTON HD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/709013
+#EXTINF:-1 tvg-id="" tvg-name="CA - GLOBAL WINNIPEG" tvg-logo="http://51.158.145.100/picons/logos/logos/GLOBAL-WINNIPEG.png" group-title="Others",CA - GLOBAL WINNIPEG
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/835135
+#EXTINF:-1 tvg-id="" tvg-name="CA - GLOBAL REGINA HD" tvg-logo="http://103.176.90.118/picons/logos/USA/GLOBAL-REGINA.png" group-title="Others",CA - GLOBAL REGINA HD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/1084123
+#EXTINF:-1 tvg-id="GlobalCIIIDT41.ca" tvg-name="CA - GLOBAL SASKATOON" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/GLOBAL-SASKATOON.png" group-title="Others",CA - GLOBAL SASKATOON
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/1084719
+#EXTINF:-1 tvg-id="" tvg-name="CA - CBC REGINA HD" tvg-logo="http://103.176.90.118/picons/logos/USA/CBC-REGINA.png" group-title="Others",CA - CBC REGINA HD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/1084122
+#EXTINF:-1 tvg-id="CMT.ca" tvg-name="CA - CMT CANADA" tvg-logo="https://logo.protv.cc/piconsnew/cmtv.png" group-title="Others",CA - CMT CANADA
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/627004
+#EXTINF:-1 tvg-id="CTVComedy.ca" tvg-name="CA - CTV COMEDY CHANNEL HD" tvg-logo="http://51.158.145.100/picons/logos/USA/CTV-COMEDY-CHANNEL.png" group-title="Others",CA - CTV COMEDY CHANNEL HD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/678233
+#EXTINF:-1 tvg-id="CTVDrama.ca" tvg-name="CA - CTV DRAMA HD" tvg-logo="http://103.176.90.118/picons-dino/logos/CTV-DRAMA-HD.png" group-title="Others",CA - CTV DRAMA HD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/626995
+#EXTINF:-1 tvg-id="CJCH.ca" tvg-name="CA - CTV HALIFAX HD" tvg-logo="http://103.176.90.118/picons-dino/logos/CTV-NP.png" group-title="Others",CA - CTV HALIFAX HD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/626993
+#EXTINF:-1 tvg-id="ca.CTV News Channel" tvg-name="CA - CTV NEWS NETWORK HD" tvg-logo="http://103.176.90.118/picons-dino/logos/CTV-NP.png" group-title="News",CA - CTV NEWS NETWORK HD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/626992
+#EXTINF:-1 tvg-id="CTVOH.ca" tvg-name="CA - CTV OTTAWA HD" tvg-logo="http://103.176.90.118/picons-dino/logos/CTV-NP.png" group-title="Others",CA - CTV OTTAWA HD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/626991
+#EXTINF:-1 tvg-id="CTVHT.ca" tvg-name="CA - CTV TORONTO HD ◉" tvg-logo="http://103.176.90.118/picons-dino/logos/CTV-NP.png" group-title="Others",CA - CTV TORONTO HD ◉
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/626990
+#EXTINF:-1 tvg-id="" tvg-name="CA - CTV Kitchener HD" tvg-logo="http://103.176.90.118/picons-dino/logos/CTV-NP.png" group-title="Others",CA - CTV Kitchener HD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/626988
+#EXTINF:-1 tvg-id="" tvg-name="CA - CTV WILD HD" tvg-logo="http://51.158.145.100/picons/logos/logos/CTV-WILD.png" group-title="Others",CA - CTV WILD HD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/1216619
+#EXTINF:-1 tvg-id="" tvg-name="CA - CTV NORTH BAY HD" tvg-logo="http://51.158.145.100/picons/logos/logos/CTV-NORTH-BAY.png" group-title="Others",CA - CTV NORTH BAY HD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/882551
+#EXTINF:-1 tvg-id="ca.CTV Vancouver, BC HD" tvg-name="CA - CTV VANCOUVER HD" tvg-logo="http://103.176.90.118/picons-dino/logos/CTV-NP.png" group-title="Others",CA - CTV VANCOUVER HD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/626989
+#EXTINF:-1 tvg-id="CTVHC.ca" tvg-name="CA - CTV Calgary HD" tvg-logo="http://103.176.90.118/picons-dino/logos/CTV-NP.png" group-title="Others",CA - CTV Calgary HD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/626987
+#EXTINF:-1 tvg-id="CFCF.ca" tvg-name="CA -  CTV MONTREAL 4K" tvg-logo="http://103.176.90.118/picons-dino/logos/CTV-NP.png" group-title="Others",CA -  CTV MONTREAL 4K
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/626986
+#EXTINF:-1 tvg-id="CFCF.ca" tvg-name="CA -  CTV MONTREAL" tvg-logo="http://103.176.90.118/picons-dino/logos/CTV-NP.png" group-title="Others",CA -  CTV MONTREAL
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/626985
+#EXTINF:-1 tvg-id="CFRN.ca" tvg-name="CA - CTV Edmonton | HD" tvg-logo="http://103.176.90.118/picons-dino/logos/CTV-NP.png" group-title="Others",CA - CTV Edmonton | HD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/626984
+#EXTINF:-1 tvg-id="" tvg-name="CA - CTV Lethbridge | HD" tvg-logo="http://103.176.90.118/picons-dino/logos/CTV-NP.png" group-title="Others",CA - CTV Lethbridge | HD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/626983
+#EXTINF:-1 tvg-id="" tvg-name="CA - CTV Moncton | HD" tvg-logo="http://103.176.90.118/picons-dino/logos/CTV-NP.png" group-title="Others",CA - CTV Moncton | HD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/626982
+#EXTINF:-1 tvg-id="" tvg-name="CA - CTV PRINCE" tvg-logo="http://103.176.90.118/picons-dino/logos/CTV-NP.png" group-title="Others",CA - CTV PRINCE
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/626981
+#EXTINF:-1 tvg-id="CKCK.ca" tvg-name="CA - CTV Regina | HD" tvg-logo="http://103.176.90.118/picons-dino/logos/CTV-NP.png" group-title="Others",CA - CTV Regina | HD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/626980
+#EXTINF:-1 tvg-id="CFQC.ca" tvg-name="CA - CTV Saskatoon | HD" tvg-logo="http://103.176.90.118/picons-dino/logos/CTV-NP.png" group-title="Others",CA - CTV Saskatoon | HD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/626979
+#EXTINF:-1 tvg-id="" tvg-name="CA - CTV Sault Ste. Marie | HD" tvg-logo="http://103.176.90.118/picons-dino/logos/CTV-NP.png" group-title="Others",CA - CTV Sault Ste. Marie | HD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/626978
+#EXTINF:-1 tvg-id="" tvg-name="CA - CTV Timmins | HD" tvg-logo="http://103.176.90.118/picons-dino/logos/CTV-NP.png" group-title="Others",CA - CTV Timmins | HD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/626977
+#EXTINF:-1 tvg-id="CHMI.ca" tvg-name="CA - CTV Winnipeg | HD" tvg-logo="http://103.176.90.118/picons-dino/logos/CTV-NP.png" group-title="Others",CA - CTV Winnipeg | HD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/626976
+#EXTINF:-1 tvg-id="" tvg-name="CA - CTV YORKTON HD" tvg-logo="http://103.176.90.118/picons-dino/logos/CTV-NP.png" group-title="Others",CA - CTV YORKTON HD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/626975
+#EXTINF:-1 tvg-id="CTVLife.ca" tvg-name="CA - CTV Life | HD" tvg-logo="http://103.176.90.118/picons-dino/logos/CTV-NP.png" group-title="Others",CA - CTV Life | HD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/626974
+#EXTINF:-1 tvg-id="" tvg-name="CA - CTV Sydney | HD" tvg-logo="http://103.176.90.118/picons-dino/logos/CTV-NP.png" group-title="Others",CA - CTV Sydney | HD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/626973
+#EXTINF:-1 tvg-id="" tvg-name="CA - CTV2 Alberta | HD" tvg-logo="http://103.176.90.118/picons-dino/logos/CTV--NP.png" group-title="Others",CA - CTV2 Alberta | HD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/626972
+#EXTINF:-1 tvg-id="" tvg-name="CA - CTV2 Atlantic | HD" tvg-logo="http://103.176.90.118/picons-dino/logos/CTV--NP.png" group-title="Others",CA - CTV2 Atlantic | HD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/626971
+#EXTINF:-1 tvg-id="" tvg-name="CA - CTV2 London | HD" tvg-logo="http://103.176.90.118/picons-dino/logos/CTV--NP.png" group-title="Others",CA - CTV2 London | HD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/626970
+#EXTINF:-1 tvg-id="CTV2Vancouver.ca" tvg-name="CA - CTV2 Vancouver | HD" tvg-logo="http://103.176.90.118/picons-dino/logos/CTV--NP.png" group-title="Others",CA - CTV2 Vancouver | HD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/626969
+#EXTINF:-1 tvg-id="" tvg-name="CA - CTV2 WINDSOR HD" tvg-logo="http://103.176.90.118/picons-dino/logos/CTV--NP.png" group-title="Others",CA - CTV2 WINDSOR HD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/626968
+#EXTINF:-1 tvg-id="CKVR.ca" tvg-name="CA - CTV2 BARRIE HD" tvg-logo="http://103.176.90.118/picons-dino/logos/CTV--NP.png" group-title="Others",CA - CTV2 BARRIE HD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/746422
+#EXTINF:-1 tvg-id="CTV2Vancouver.ca" tvg-name="CA - CTV 2 VANCOUVER HD" tvg-logo="http://103.176.90.118/picons-dino/logos/CTV-NP.png" group-title="Others",CA - CTV 2 VANCOUVER HD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/626967
+#EXTINF:-1 tvg-id="CHRO.ca" tvg-name="CA - CTV 2 OTTAWA HD" tvg-logo="http://103.176.90.118/picons-dino/logos/CTV-NP.png" group-title="Others",CA - CTV 2 OTTAWA HD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/626966
+#EXTINF:-1 tvg-id="" tvg-name="CA - GLOBAL KINGSTON HD" tvg-logo="http://103.176.90.118/picons/iptvlogos/GLOBAL_HD.png" group-title="Others",CA - GLOBAL KINGSTON HD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/822098
+#EXTINF:-1 tvg-id="DiscoveryChannel.ca" tvg-name="CA - DISCOVERY CANADA" tvg-logo="http://103.176.90.118/picons-dino/logos/DISCOVERY-CANADA-NP.png" group-title="Documentary",CA - DISCOVERY CANADA
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/626962
+#EXTINF:-1 tvg-id="DiscoveryScience.ca" tvg-name="CA - DISCOVERY SCIENCE CANADA HD" tvg-logo="http://103.176.90.118/picons-dino/logos/DISCOVERY-SCIENCE-NP.png" group-title="Documentary",CA - DISCOVERY SCIENCE CANADA HD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/626961
+#EXTINF:-1 tvg-id="DisneyChannel.ca" tvg-name="CA - DISNEY CANADA HD" tvg-logo="http://103.176.90.118/picons-dino/logos/DISNEY-CH-NP.png" group-title="Kids",CA - DISNEY CANADA HD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/626959
+#EXTINF:-1 tvg-id="CBET.ca" tvg-name="CA - CBC WINDSOR HD" tvg-logo="http://51.158.145.100/picons/logos/USA/CBC-WINDSOR.png" group-title="Others",CA - CBC WINDSOR HD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/811690
+#EXTINF:-1 tvg-id="" tvg-name="CA - CTV SUDBURY HD" tvg-logo="http://103.176.90.118/picons/logos/CTV-SUDBURY-HD.png" group-title="Others",CA - CTV SUDBURY HD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/844890
+#EXTINF:-1 tvg-id="EEntertainment.ca" tvg-name="CA -  E! CANADA HD" tvg-logo="http://103.176.90.118/picons-dino/logos/E!-NP.jpeg" group-title="Others",CA -  E! CANADA HD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/626951
+#EXTINF:-1 tvg-id="GlobalCIIIDT41.ca" tvg-name="CA - GLOBAL OKANAGAN HD" tvg-logo="http://103.176.90.118/picons/logos/USA/GLOBAL-OKANAGAN.png" group-title="Others",CA - GLOBAL OKANAGAN HD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/1180591
+#EXTINF:-1 tvg-id="GlobalCIIIDT41.ca" tvg-name="CA - GLOBAL NATIONAL NEWS" tvg-logo="http://103.176.90.118/picons/logos/logos/GLOBAL-NATIONAL-NEWS.png" group-title="News",CA - GLOBAL NATIONAL NEWS
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/1114676
+#EXTINF:-1 tvg-id="GlobalCalgary.ca" tvg-name="CA - GLOBAL CALGARY HD" tvg-logo="http://51.158.145.100/picons/logos/USA/GLOBAL-CALGARY.png" group-title="Others",CA - GLOBAL CALGARY HD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/736784
+#EXTINF:-1 tvg-id="" tvg-name="CA - GLOBAL DURHAM HD" tvg-logo="http://103.176.90.118/picons/logos/logos/GLOBAL-DURHAM.png" group-title="Others",CA - GLOBAL DURHAM HD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/1071454
+#EXTINF:-1 tvg-id="GlobalMontrealCKMI.ca" tvg-name="CA - GLOBAL MONTREAL HD" tvg-logo="http://103.176.90.118/picons-dino/logos/GLOBAL-MONTREAL-NP.png" group-title="Others",CA - GLOBAL MONTREAL HD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/626941
+#EXTINF:-1 tvg-id="GlobalHalifaxCIHF.ca" tvg-name="CA - GLOBAL HALIFAX HD" tvg-logo="http://103.176.90.118/picons-dino/logos/GLOBAL-HALIFAX-NP.png" group-title="Others",CA - GLOBAL HALIFAX HD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/626940
+#EXTINF:-1 tvg-id="CIII.ca" tvg-name="CA - GLOBAL TORONTO HD" tvg-logo="http://51.158.145.100/picons/logos/EUROPE/GLOBALTORONTO.png" group-title="Others",CA - GLOBAL TORONTO HD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/626939
+#EXTINF:-1 tvg-id="ca.Global BC DV" tvg-name="CA - GLOBAL VANCOUVER HD" tvg-logo="http://103.176.90.118/picons/logos/GLOBAL-VANCOUVER-HD.png" group-title="Others",CA - GLOBAL VANCOUVER HD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/626938
+#EXTINF:-1 tvg-id="History2.ca" tvg-name="CA - H2 CANADA HD" tvg-logo="http://103.176.90.118/picons-dino/logos/H2-CANADA-NP.png" group-title="Others",CA - H2 CANADA HD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/626934
+#EXTINF:-1 tvg-id="InvestigationDiscovery.ca" tvg-name="CA - ID CANADA HD" tvg-logo="http://103.176.90.118/picons-dino/logos/DISCOVERY-ID-NP.png" group-title="Others",CA - ID CANADA HD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/626927
+#EXTINF:-1 tvg-id="ca.CTV Sci-Fi" tvg-name="CA - CTV SCI-FI CHANNEL HD" tvg-logo="http://103.176.90.118/picons-dino/logos/CTV-SCI-FI.png" group-title="Others",CA - CTV SCI-FI CHANNEL HD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/626898
+#EXTINF:-1 tvg-id="ParamountNetwork.ca" tvg-name="CA - SPIKE TV / PARAMOUNT CANADA HD" tvg-logo="https://logo.protv.cc/piconsnew/spike.png" group-title="Others",CA - SPIKE TV / PARAMOUNT CANADA HD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/626897
+#EXTINF:-1 tvg-id="ca.TLC Canada" tvg-name="CA - TLC CANADA HD" tvg-logo="http://103.176.90.118/picons-dino/logos/TLC-HD.png" group-title="Others",CA - TLC CANADA HD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/626882
+#EXTINF:-1 tvg-id="" tvg-name="CA - GLOBAL PETERBOROUGH HD" tvg-logo="http://51.158.145.100/picons/logos/logos/GLOBAL-PETERBOROUGH.png" group-title="Others",CA - GLOBAL PETERBOROUGH HD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/957203
+#EXTINF:-1 tvg-id="" tvg-name="CA - GLOBAL MARITIMES HD" tvg-logo="http://51.158.145.100/picons/logos/logos/GLOBAL-MARITIMES.png" group-title="Others",CA - GLOBAL MARITIMES HD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/943895
+#EXTINF:-1 tvg-id="ca.CBC (CBRT) Calgary, AB" tvg-name="CA - CBC CALGARY HD" tvg-logo="http://51.158.145.100/picons/logos/USA/CBC-CALGARY.png" group-title="Others",CA - CBC CALGARY HD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/626861
+#EXTINF:-1 tvg-id="GlobalCIIIDT41.ca" tvg-name="CA - GLOBAL TORONTO HD ◉" tvg-logo="http://103.176.90.118/picons-dino/logos/GLOBAL-TORONTO.png" group-title="Others",CA - GLOBAL TORONTO HD ◉
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/626860
+#EXTINF:-1 tvg-id="CBCNews.ca" tvg-name="CA - VIP CBC NEWS HD" tvg-logo="http://103.176.90.118/picons-dino/logos/CBC-NEWS.png" group-title="News",CA - VIP CBC NEWS HD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/626851
+#EXTINF:-1 tvg-id="GlobalHalifaxCIHF.ca" tvg-name="CA - VIP GLOBAL HALIFAX HD" tvg-logo="http://103.176.90.118/picons-dino/logos/GLOBAL-HALIFAX-NP.png" group-title="Others",CA - VIP GLOBAL HALIFAX HD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/626845
+#EXTINF:-1 tvg-id="GlobalCIIIDT41.ca" tvg-name="CA - VIP GLOBAL TORONTO HD" tvg-logo="http://103.176.90.118/picons-dino/logos/GLOBAL-TORONTO.png" group-title="Others",CA - VIP GLOBAL TORONTO HD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/626844
+#EXTINF:-1 tvg-id="ca.CTV Sci-Fi" tvg-name="CA - CTV SCI-FI HD" tvg-logo="http://103.176.90.118/picons-dino/logos/CTV-SCI-FI.png" group-title="Others",CA - CTV SCI-FI HD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/626836
+#EXTINF:-1 tvg-id="" tvg-name="#####|CA| CANADA FR #####" tvg-logo="http://51.158.145.100/picons/logos/logos/CANADA.png" group-title="Others",#####|CA| CANADA FR #####
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/626305
+#EXTINF:-1 tvg-id="ICIRadioCanadaMontreal.ca" tvg-name="CAFR - ICI RADIO-CANADA TELE MONTREAL HD" tvg-logo="http://103.176.90.118/picons-dino/logos/ICI-TELE-HD.png" group-title="Others",CAFR - ICI RADIO-CANADA TELE MONTREAL HD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/626291
+#EXTINF:-1 tvg-id="" tvg-name="CAFR - ICI RADIO-CANADA TELE OTTAWA HD" tvg-logo="http://103.176.90.118/picons-dino/logos/ICI-TELE-HD.png" group-title="Others",CAFR - ICI RADIO-CANADA TELE OTTAWA HD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/626290
+#EXTINF:-1 tvg-id="ICIRadioCanadaTeleToronto-ca" tvg-name="CAFR - ICI RADIO-CANADA TELE TORONTO HD" tvg-logo="http://103.176.90.118/picons-dino/logos/ICI-TELE-HD.png" group-title="Others",CAFR - ICI RADIO-CANADA TELE TORONTO HD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/626288
+#EXTINF:-1 tvg-id="" tvg-name="CAFR - ICI RADIO-CANADA TELE QUEBEC HD" tvg-logo="http://103.176.90.118/picons-dino/logos/ICI-TELE-HD.png" group-title="Others",CAFR - ICI RADIO-CANADA TELE QUEBEC HD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/626289
+#EXTINF:-1 tvg-id="" tvg-name="PJB - GLOBAL PUNJABI UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/GLOBAL-PUNJABI.jpg" group-title="Others",PJB - GLOBAL PUNJABI UHD
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/281690
+#EXTINF:-1 tvg-id="" tvg-name="PJB - JUS CANADA" tvg-logo="http://103.176.90.118/picons/logos/ASIA/JUS-CANADA.png" group-title="Others",PJB - JUS CANADA
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/952653
+#EXTINF:-1 tvg-id="" tvg-name="PAK - PTV GLOBAL EU" tvg-logo="http://103.176.90.118/picons-dino/logos/ptvglobal.png" group-title="Others",PAK - PTV GLOBAL EU
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/292902
+#EXTINF:-1 tvg-id="" tvg-name="PAK - HELLO CANADA" tvg-logo="http://103.176.90.118/picons-dino/logos/HELLO-CANADA.png" group-title="Others",PAK - HELLO CANADA
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/292800
+#EXTINF:-1 tvg-id="" tvg-name="SOM - HCTV" tvg-logo="https://logo.protv.cc/piconsnew/hctv.png" group-title="Others",SOM - HCTV
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/679657
+#EXTINF:-1 tvg-id="" tvg-name="SOM - MALI HCTV" tvg-logo="http://51.158.145.100/picons/logos/AFRICA/MALI-HCTV.png" group-title="Others",SOM - MALI HCTV
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/679672
+#EXTINF:-1 tvg-id="" tvg-name="SEN - MUSICTV SN" tvg-logo="http://51.158.145.100/picons/logos/AFRICA/MUSICTV.png" group-title="Music",SEN - MUSICTV SN
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/311301
+#EXTINF:-1 tvg-id="" tvg-name="GHA - GH CANADA TV" tvg-logo="http://51.158.145.100/picons/logos/AFRICA/GH-CANADA.png" group-title="Others",GHA - GH CANADA TV
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/311355
+#EXTINF:-1 tvg-id="" tvg-name="UGA - CCTV 4" tvg-logo="https://logo.protv.cc/piconsnew/cctv4.png" group-title="Others",UGA - CCTV 4
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/311453
+#EXTINF:-1 tvg-id="CinemaOneGlobal.ph" tvg-name="PH - CINEMA ONE GLOBAL" tvg-logo="http://103.176.90.118/picons/logos/CINEMA-ONE-GLOBAL.jpg" group-title="Movies",PH - CINEMA ONE GLOBAL
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/743353
+#EXTINF:-1 tvg-id="" tvg-name="PH - TFC CANADA" tvg-logo="http://103.176.90.118/picons-dino/logos/TFC-.jpg" group-title="Others",PH - TFC CANADA
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/837524
+#EXTINF:-1 tvg-id="" tvg-name="CAR - CBC" tvg-logo="http://103.176.90.118/picons-dino/logos/cbc.jpg" group-title="Others",CAR - CBC
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/552895
+#EXTINF:-1 tvg-id="" tvg-name="CAR - CCTV4" tvg-logo="http://103.176.90.118/picons-dino/logos/cctv4.png" group-title="Others",CAR - CCTV4
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/552957
+#EXTINF:-1 tvg-id="" tvg-name="CAR - CTV COMEDY" tvg-logo="http://103.176.90.118/picons-dino/logos/CTV-COMEDY-CHANNEL.png" group-title="Others",CAR - CTV COMEDY
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/553013
+#EXTINF:-1 tvg-id="" tvg-name="CRB - CBC TV 8" tvg-logo="http://103.176.90.118/picons/logos/logos/CBC-TV-8.png" group-title="Others",CRB - CBC TV 8
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/1100918
+#EXTINF:-1 tvg-id="" tvg-name="AZ - CBC AZERBAJAN" tvg-logo="http://103.176.90.118/picons-dino/logos/CBC-TV.png" group-title="Others",AZ - CBC AZERBAJAN
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/679467
+#EXTINF:-1 tvg-id="CBCSports.ca" tvg-name="AZ - CBC SPORT" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/CBCSPORT.png" group-title="Sports",AZ - CBC SPORT
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/1138730
+#EXTINF:-1 tvg-id="" tvg-name="ID - SCTV" tvg-logo="http://103.176.90.118/picons/logos/SCTV.jpg" group-title="Others",ID - SCTV
+http://2k.asstvs.com:80/6727278d4d628/73e2629a74/704413
+#EXTINF:-1 tvg-id="" tvg-name="FR - Génération Ushuaia – Global Citizen live : le concert planétaire  (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1fqo4LJMNzh0U6UcOMRY8NesTVd.jpg" group-title="Others",FR - Génération Ushuaia – Global Citizen live : le concert planétaire  (2021)
+http://2k.asstvs.com:80/movie/6727278d4d628/73e2629a74/614497.mp4
+#EXTINF:-1 tvg-id="" tvg-name="FR - Global Meltdown  (2017)" tvg-logo="http://dino.proxytx.cloud:80/images/movies//3msVFWalwQyfXQONXh9dRM0FLpD.jpg" group-title="Others",FR - Global Meltdown  (2017)
+http://2k.asstvs.com:80/movie/6727278d4d628/73e2629a74/405835.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN - Oh, Canada (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hKDR5AYXRTPb751oc7xK2Ay3PH0.jpg" group-title="Others",EN - Oh, Canada (2024)
+http://2k.asstvs.com:80/movie/6727278d4d628/73e2629a74/1195495.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - Sniper: G.R.I.T. - Global Response & Intelligence Team (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xcC2558b4Z6AavbfFBZXxRp01EV.jpg" group-title="Others",EN - Sniper: G.R.I.T. - Global Response & Intelligence Team (2023)
+http://2k.asstvs.com:80/movie/6727278d4d628/73e2629a74/969361.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sharknado 5: Global Swarming (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zB1ZhLWQNiBkRnABbFaULodfEaj.jpg" group-title="Others",Sharknado 5: Global Swarming (2017)
+http://2k.asstvs.com:80/movie/6727278d4d628/73e2629a74/1235291.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LAT - Sniper E.I.R.G. – Equipo de inteligencia y respuesta global (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/X13cOdC037SHDHpzLMQDTJjfjU.jpg" group-title="Others",LAT - Sniper E.I.R.G. – Equipo de inteligencia y respuesta global (2023)
+http://2k.asstvs.com:80/movie/6727278d4d628/73e2629a74/1082028.mkv
+#EXTINF:-1 tvg-id="" tvg-name="ES - Sniper: G.R.I.T. - Global Response & Intelligence Team (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gcd5TJwXLWeQ2Dn0aRxI8OJIIxK.jpg" group-title="Others",ES - Sniper: G.R.I.T. - Global Response & Intelligence Team (2023)
+http://2k.asstvs.com:80/movie/6727278d4d628/73e2629a74/973500.mkv
+#EXTINF:-1 tvg-id="" tvg-name="ES - Formula 1 GP Canada (2023)" tvg-logo="https://jonathanball.co.za/images/stories/virtuemart/product/F1%20Grand%20Prix%20Guide.jpg" group-title="Others",ES - Formula 1 GP Canada (2023)
+http://2k.asstvs.com:80/movie/6727278d4d628/73e2629a74/905921.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES - Formula 1 GP Canada (2023)" tvg-logo="https://jonathanball.co.za/images/stories/virtuemart/product/F1%20Grand%20Prix%20Guide.jpg" group-title="Others",ES - Formula 1 GP Canada (2023)
+http://2k.asstvs.com:80/movie/6727278d4d628/73e2629a74/905920.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES - Sniper G.R.I.T. - Global Response & Intelligence Team (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xcC2558b4Z6AavbfFBZXxRp01EV.jpg" group-title="Others",ES - Sniper G.R.I.T. - Global Response & Intelligence Team (2023)
+http://2k.asstvs.com:80/movie/6727278d4d628/73e2629a74/969398.mkv
+#EXTINF:-1 tvg-id="" tvg-name="RU - Oh, Canada (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hKDR5AYXRTPb751oc7xK2Ay3PH0.jpg" group-title="Others",RU - Oh, Canada (2024)
+http://2k.asstvs.com:80/movie/6727278d4d628/73e2629a74/1261159.mkv
+#EXTINF:-1 tvg-id="" tvg-name="NL - Sharknado 5: Global Swarming (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jmWFQBtJseHSIloxW20doRCXGgZ.jpg" group-title="Others",NL - Sharknado 5: Global Swarming (2017)
+http://2k.asstvs.com:80/movie/6727278d4d628/73e2629a74/1025360.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN - The Amazing Race Canada (2013) S01 E01" tvg-logo="https://image.tmdb.org/t/p/w185/f6nLgK39nUDlSARNvSS3dc9TAA8.jpg" group-title="Others",EN - The Amazing Race Canada (2013) S01 E01
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/1261105.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - The Amazing Race Canada (2013) S01 E02" tvg-logo="https://image.tmdb.org/t/p/w185/hCorNppaQg2p7cdHcuJfebLf7rL.jpg" group-title="Others",EN - The Amazing Race Canada (2013) S01 E02
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/1261106.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - The Amazing Race Canada (2013) S01 E03" tvg-logo="https://image.tmdb.org/t/p/w185/in53KoAxjKzAdG0v1tRIwAqJPxK.jpg" group-title="Others",EN - The Amazing Race Canada (2013) S01 E03
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/1261107.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - The Amazing Race Canada (2013) S01 E04" tvg-logo="https://image.tmdb.org/t/p/w185/dhBNm604jpwtw44aQZ96RUzM8la.jpg" group-title="Others",EN - The Amazing Race Canada (2013) S01 E04
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/1261108.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - The Amazing Race Canada (2013) S01 E05" tvg-logo="https://image.tmdb.org/t/p/w185/udObZLQHytjWZWcIuGH3P3r8ahT.jpg" group-title="Others",EN - The Amazing Race Canada (2013) S01 E05
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/1261109.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - The Amazing Race Canada (2013) S01 E06" tvg-logo="https://image.tmdb.org/t/p/w185/akE4bXkTVANjuLh87PMVwoXysOO.jpg" group-title="Others",EN - The Amazing Race Canada (2013) S01 E06
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/1261110.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - The Amazing Race Canada (2013) S01 E07" tvg-logo="https://image.tmdb.org/t/p/w185/62F4tA7jFAZW21fa6TlvooAeOJt.jpg" group-title="Others",EN - The Amazing Race Canada (2013) S01 E07
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/1261111.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - The Amazing Race Canada (2013) S01 E08" tvg-logo="https://image.tmdb.org/t/p/w185/lJylw1rBmP8iq9sVhLJ6Tj2qGm5.jpg" group-title="Others",EN - The Amazing Race Canada (2013) S01 E08
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/1261112.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - The Amazing Race Canada (2013) S01 E09" tvg-logo="https://image.tmdb.org/t/p/w185/pzegYcoLFen8hTOgLgMeceqqutK.jpg" group-title="Others",EN - The Amazing Race Canada (2013) S01 E09
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/1261113.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - The Amazing Race Canada (2013) S01 E10" tvg-logo="https://image.tmdb.org/t/p/w185/xR4u5iWhX2bwj0zFXr0T8O4dPSX.jpg" group-title="Others",EN - The Amazing Race Canada (2013) S01 E10
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/1261114.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - The Amazing Race Canada (2013) S02 E01" tvg-logo="https://image.tmdb.org/t/p/w185/qtYzPILz1iaoMldFTCyusD7FI10.jpg" group-title="Others",EN - The Amazing Race Canada (2013) S02 E01
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/1261116.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - The Amazing Race Canada (2013) S02 E02" tvg-logo="https://image.tmdb.org/t/p/w185/dXWPGW6JBXiUF4dONjjlaj5kJyh.jpg" group-title="Others",EN - The Amazing Race Canada (2013) S02 E02
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/1261117.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - The Amazing Race Canada (2013) S02 E03" tvg-logo="https://image.tmdb.org/t/p/w185/1vbxioRy0be6GVDFtq1uAKDg2uf.jpg" group-title="Others",EN - The Amazing Race Canada (2013) S02 E03
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/1261118.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - The Amazing Race Canada (2013) S02 E04" tvg-logo="https://image.tmdb.org/t/p/w185/khYgCltp6p6Qt1QGXNHkTyhpF0b.jpg" group-title="Others",EN - The Amazing Race Canada (2013) S02 E04
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/1261119.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - The Amazing Race Canada (2013) S02 E05" tvg-logo="https://image.tmdb.org/t/p/w185/z0Ln9jZFmRCSmA0UKerqLVYVLCO.jpg" group-title="Others",EN - The Amazing Race Canada (2013) S02 E05
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/1261120.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - The Amazing Race Canada (2013) S02 E06" tvg-logo="https://image.tmdb.org/t/p/w185/HKgliwZz9K1IPd31LVlXfbAHLr.jpg" group-title="Others",EN - The Amazing Race Canada (2013) S02 E06
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/1261121.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - The Amazing Race Canada (2013) S02 E07" tvg-logo="https://image.tmdb.org/t/p/w185/fuSaF7OPIG0jBWBBcNVYs1es1mM.jpg" group-title="Others",EN - The Amazing Race Canada (2013) S02 E07
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/1261122.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - The Amazing Race Canada (2013) S02 E08" tvg-logo="https://image.tmdb.org/t/p/w185/rIaJLr6tpSrEpl6bfNz1asV0wU2.jpg" group-title="Others",EN - The Amazing Race Canada (2013) S02 E08
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/1261123.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - The Amazing Race Canada (2013) S02 E09" tvg-logo="https://image.tmdb.org/t/p/w185/4mJrU3y4U5UuiUQ0L1xrK6QWDtn.jpg" group-title="Others",EN - The Amazing Race Canada (2013) S02 E09
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/1261124.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - The Amazing Race Canada (2013) S02 E10" tvg-logo="https://image.tmdb.org/t/p/w185/732YKf9bMUcsGLPRQ3nkyhFs1kZ.jpg" group-title="Others",EN - The Amazing Race Canada (2013) S02 E10
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/1261125.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - The Amazing Race Canada (2013) S02 E11" tvg-logo="https://image.tmdb.org/t/p/w185/jt1a6cIp7FLXKnzT5oMIavfozdQ.jpg" group-title="Others",EN - The Amazing Race Canada (2013) S02 E11
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/1261126.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - The Amazing Race Canada (2013) S02 E12" tvg-logo="https://image.tmdb.org/t/p/w185/aNCVFWQOlR4TBa1BMqsd6s6xD2M.jpg" group-title="Others",EN - The Amazing Race Canada (2013) S02 E12
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/1261115.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - The Amazing Race Canada (2013) S03 E01" tvg-logo="https://image.tmdb.org/t/p/w185/kaAL37ZpaeumZLYUqOQBLN8xdIU.jpg" group-title="Others",EN - The Amazing Race Canada (2013) S03 E01
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/1261131.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - The Amazing Race Canada (2013) S03 E02" tvg-logo="https://image.tmdb.org/t/p/w185/oXsx5pQwgbhoCvkiuGxBbRIGSYz.jpg" group-title="Others",EN - The Amazing Race Canada (2013) S03 E02
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/1261132.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - The Amazing Race Canada (2013) S03 E03" tvg-logo="https://image.tmdb.org/t/p/w185/AahygIFfi7KPk9XZMPJbrl5h5U8.jpg" group-title="Others",EN - The Amazing Race Canada (2013) S03 E03
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/1261127.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - The Amazing Race Canada (2013) S03 E04" tvg-logo="https://image.tmdb.org/t/p/w185/u7QZGmnXt06gVfZFBmYuHXZhTgy.jpg" group-title="Others",EN - The Amazing Race Canada (2013) S03 E04
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/1261133.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - The Amazing Race Canada (2013) S03 E05" tvg-logo="https://image.tmdb.org/t/p/w185/iTEcgpPFjZtpPUE5bSrN48swYWE.jpg" group-title="Others",EN - The Amazing Race Canada (2013) S03 E05
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/1261134.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - The Amazing Race Canada (2013) S03 E06" tvg-logo="https://image.tmdb.org/t/p/w185/s3k9UWs6s2on67IN33ILdMFzXvm.jpg" group-title="Others",EN - The Amazing Race Canada (2013) S03 E06
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/1261128.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - The Amazing Race Canada (2013) S03 E07" tvg-logo="https://image.tmdb.org/t/p/w185/jPffFIAaZtkshX7SRFHj8jwSe61.jpg" group-title="Others",EN - The Amazing Race Canada (2013) S03 E07
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/1261129.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - The Amazing Race Canada (2013) S03 E08" tvg-logo="https://image.tmdb.org/t/p/w185/6R81IBAg5GCCiSttksFy5F3oIu6.jpg" group-title="Others",EN - The Amazing Race Canada (2013) S03 E08
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/1261135.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - The Amazing Race Canada (2013) S03 E09" tvg-logo="https://image.tmdb.org/t/p/w185/zOwKRqiEAgSdhJmDeHFre2pJpET.jpg" group-title="Others",EN - The Amazing Race Canada (2013) S03 E09
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/1261130.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - The Amazing Race Canada (2013) S03 E10" tvg-logo="https://image.tmdb.org/t/p/w185/GKRWsgFIVFzPtNjnpn7uYkQb9G.jpg" group-title="Others",EN - The Amazing Race Canada (2013) S03 E10
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/1261136.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - The Amazing Race Canada (2013) S03 E11" tvg-logo="https://image.tmdb.org/t/p/w185/1eZMNC4XmfkQt5yTemIIoAKMxOi.jpg" group-title="Others",EN - The Amazing Race Canada (2013) S03 E11
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/1261137.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - The Amazing Race Canada (2013) S03 E12" tvg-logo="https://image.tmdb.org/t/p/w185/cUqb0tyy80yW0K3bR53osZ6qof1.jpg" group-title="Others",EN - The Amazing Race Canada (2013) S03 E12
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/1261138.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - The Amazing Race Canada (2013) S10 E01" tvg-logo="https://image.tmdb.org/t/p/w185/azs9NCeQqQUQDW2Th95LJoeuH7f.jpg" group-title="Others",EN - The Amazing Race Canada (2013) S10 E01
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/1283427.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN - The Amazing Race Canada (2013) S10 E02" tvg-logo="https://image.tmdb.org/t/p/w185/yA5fS9cnQSm4ZNxlZMOTna5yJBA.jpg" group-title="Others",EN - The Amazing Race Canada (2013) S10 E02
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/1283428.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN - The Amazing Race Canada (2013) S10 E03" tvg-logo="https://image.tmdb.org/t/p/w185/piW3pPCxpBlivK5HyChXVFJivyg.jpg" group-title="Others",EN - The Amazing Race Canada (2013) S10 E03
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/1283429.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN - The Amazing Race Canada (2013) S10 E04" tvg-logo="https://image.tmdb.org/t/p/w185/z8AYfS4rTQMMmI8NsbI8QViZTQ.jpg" group-title="Others",EN - The Amazing Race Canada (2013) S10 E04
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/1283430.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN - The Amazing Race Canada (2013) S10 E05" tvg-logo="https://image.tmdb.org/t/p/w185/vyPkcmvTTFSdjxdLYN9pNl64Gwf.jpg" group-title="Others",EN - The Amazing Race Canada (2013) S10 E05
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/1283431.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN - The Amazing Race Canada (2013) S10 E06" tvg-logo="https://image.tmdb.org/t/p/w185/1hay6vqPgGpF6ctL2iy0xHVhirH.jpg" group-title="Others",EN - The Amazing Race Canada (2013) S10 E06
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/1283432.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN - The Amazing Race Canada (2013) S10 E07" tvg-logo="https://image.tmdb.org/t/p/w185/gjy935VhI0r0lYdHubgZXVb8l35.jpg" group-title="Others",EN - The Amazing Race Canada (2013) S10 E07
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/1283433.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN - The Amazing Race Canada (2013) S10 E08" tvg-logo="https://image.tmdb.org/t/p/w185/i7Uw6tKF9WqLkM4xTB4ZZOeCmMj.jpg" group-title="Others",EN - The Amazing Race Canada (2013) S10 E08
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/1283434.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN - The Amazing Race Canada (2013) S10 E09" tvg-logo="https://image.tmdb.org/t/p/w185/hnK6HiblFLpxonwskpnsyBR8UW7.jpg" group-title="Others",EN - The Amazing Race Canada (2013) S10 E09
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/1283435.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN - The Amazing Race Canada (2013) S10 E10" tvg-logo="https://image.tmdb.org/t/p/w185/9kikga1wESBVaiSbrpsyThR9mt8.jpg" group-title="Others",EN - The Amazing Race Canada (2013) S10 E10
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/1283436.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN - The Amazing Race Canada (2013) S11 E01" tvg-logo="https://image.tmdb.org/t/p/w185/6xjJXPMj7qMduOBhxrDxiKnqfG7.jpg" group-title="Others",EN - The Amazing Race Canada (2013) S11 E01
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/1283437.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN - Border Security: Canada's Front Line (2012) S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3w7LkYjRj1g2ZrGoKPso1p6gqWO.jpg" group-title="Others",EN - Border Security: Canada's Front Line (2012) S01 E01
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/1226331.avi
+#EXTINF:-1 tvg-id="" tvg-name="EN - Border Security: Canada's Front Line (2012) S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3w7LkYjRj1g2ZrGoKPso1p6gqWO.jpg" group-title="Others",EN - Border Security: Canada's Front Line (2012) S01 E02
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/1226332.avi
+#EXTINF:-1 tvg-id="" tvg-name="EN - Border Security: Canada's Front Line (2012) S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3w7LkYjRj1g2ZrGoKPso1p6gqWO.jpg" group-title="Others",EN - Border Security: Canada's Front Line (2012) S01 E03
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/1226333.avi
+#EXTINF:-1 tvg-id="" tvg-name="EN - Border Security: Canada's Front Line (2012) S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3w7LkYjRj1g2ZrGoKPso1p6gqWO.jpg" group-title="Others",EN - Border Security: Canada's Front Line (2012) S01 E04
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/1226334.avi
+#EXTINF:-1 tvg-id="" tvg-name="EN - Border Security: Canada's Front Line (2012) S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3w7LkYjRj1g2ZrGoKPso1p6gqWO.jpg" group-title="Others",EN - Border Security: Canada's Front Line (2012) S01 E05
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/1226335.avi
+#EXTINF:-1 tvg-id="" tvg-name="EN - Border Security: Canada's Front Line (2012) S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3w7LkYjRj1g2ZrGoKPso1p6gqWO.jpg" group-title="Others",EN - Border Security: Canada's Front Line (2012) S01 E06
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/1226336.avi
+#EXTINF:-1 tvg-id="" tvg-name="EN - Border Security: Canada's Front Line (2012) S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3w7LkYjRj1g2ZrGoKPso1p6gqWO.jpg" group-title="Others",EN - Border Security: Canada's Front Line (2012) S01 E07
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/1226337.avi
+#EXTINF:-1 tvg-id="" tvg-name="EN - Border Security: Canada's Front Line (2012) S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3w7LkYjRj1g2ZrGoKPso1p6gqWO.jpg" group-title="Others",EN - Border Security: Canada's Front Line (2012) S01 E08
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/1226338.avi
+#EXTINF:-1 tvg-id="" tvg-name="EN - Border Security: Canada's Front Line (2012) S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3w7LkYjRj1g2ZrGoKPso1p6gqWO.jpg" group-title="Others",EN - Border Security: Canada's Front Line (2012) S01 E09
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/1226339.avi
+#EXTINF:-1 tvg-id="" tvg-name="EN - Border Security: Canada's Front Line (2012) S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3w7LkYjRj1g2ZrGoKPso1p6gqWO.jpg" group-title="Others",EN - Border Security: Canada's Front Line (2012) S01 E10
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/1226340.avi
+#EXTINF:-1 tvg-id="" tvg-name="EN - Border Security: Canada's Front Line (2012) S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3w7LkYjRj1g2ZrGoKPso1p6gqWO.jpg" group-title="Others",EN - Border Security: Canada's Front Line (2012) S01 E12
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/1226341.avi
+#EXTINF:-1 tvg-id="" tvg-name="EN - Border Security: Canada's Front Line (2012) S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3w7LkYjRj1g2ZrGoKPso1p6gqWO.jpg" group-title="Others",EN - Border Security: Canada's Front Line (2012) S01 E13
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/1226342.avi
+#EXTINF:-1 tvg-id="" tvg-name="EN - Canada's Drag Race (2020) S00 E01" tvg-logo="https://image.tmdb.org/t/p/w185/5z5Cw2Ac6vTFxdB8xW1va68SV95.jpg" group-title="Others",EN - Canada's Drag Race (2020) S00 E01
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/761705.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - Canada's Drag Race (2020) S01 E01" tvg-logo="https://image.tmdb.org/t/p/w185/6HVInc9GCuHBz6JftFd18Iop4QP.jpg" group-title="Others",EN - Canada's Drag Race (2020) S01 E01
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/761706.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN - Canada's Drag Race (2020) S01 E02" tvg-logo="https://image.tmdb.org/t/p/w185/i5rnKYddWFXtURTQceB4InLwtHw.jpg" group-title="Others",EN - Canada's Drag Race (2020) S01 E02
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/761707.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN - Canada's Drag Race (2020) S01 E03" tvg-logo="https://image.tmdb.org/t/p/w185/oJvqgPi1sEU7iPHbjO5EEKsehw6.jpg" group-title="Others",EN - Canada's Drag Race (2020) S01 E03
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/761708.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN - Canada's Drag Race (2020) S01 E04" tvg-logo="https://image.tmdb.org/t/p/w185/rMdYPnnv4j07iJiyxUEpVab4A2C.jpg" group-title="Others",EN - Canada's Drag Race (2020) S01 E04
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/761709.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN - Canada's Drag Race (2020) S01 E05" tvg-logo="https://image.tmdb.org/t/p/w185/iKIAremCkHkFg7gt7AK9GlJtZy8.jpg" group-title="Others",EN - Canada's Drag Race (2020) S01 E05
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/761710.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN - Canada's Drag Race (2020) S01 E06" tvg-logo="https://image.tmdb.org/t/p/w185/bEu7apTKJf7bfxs43eKmuJo5xgI.jpg" group-title="Others",EN - Canada's Drag Race (2020) S01 E06
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/761711.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN - Canada's Drag Race (2020) S01 E07" tvg-logo="https://image.tmdb.org/t/p/w185/q8rFknlDBgTvBi8ZzaMcWo3FUcX.jpg" group-title="Others",EN - Canada's Drag Race (2020) S01 E07
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/761712.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN - Canada's Drag Race (2020) S01 E08" tvg-logo="https://image.tmdb.org/t/p/w185/bKquWCyDWPG8QmWUnPAI8B4shML.jpg" group-title="Others",EN - Canada's Drag Race (2020) S01 E08
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/761713.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN - Canada's Drag Race (2020) S01 E09" tvg-logo="https://image.tmdb.org/t/p/w185/t6L8RTLNEIIZdakknUYRL7uncfT.jpg" group-title="Others",EN - Canada's Drag Race (2020) S01 E09
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/761714.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - Canada's Drag Race (2020) S01 E10" tvg-logo="https://image.tmdb.org/t/p/w185/pCErG7fdOLdoGL1hDetFyUfuh8j.jpg" group-title="Others",EN - Canada's Drag Race (2020) S01 E10
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/761715.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - Canada's Drag Race (2020) S02 E01" tvg-logo="https://image.tmdb.org/t/p/w185/pDHwrib4bQr2rWEtYJkxI6otNVC.jpg" group-title="Others",EN - Canada's Drag Race (2020) S02 E01
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/761716.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN - Canada's Drag Race (2020) S02 E02" tvg-logo="https://image.tmdb.org/t/p/w185/1txI8spNjXdzyXTiE9hr3mZtcqh.jpg" group-title="Others",EN - Canada's Drag Race (2020) S02 E02
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/761717.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN - Canada's Drag Race (2020) S02 E03" tvg-logo="https://image.tmdb.org/t/p/w185/tvChL0j2uCdo2D4MS1z0S2TgYmt.jpg" group-title="Others",EN - Canada's Drag Race (2020) S02 E03
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/761718.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN - Canada's Drag Race (2020) S02 E04" tvg-logo="https://image.tmdb.org/t/p/w185/erE2RsoRvvVS1kIcztxdHfRLBs.jpg" group-title="Others",EN - Canada's Drag Race (2020) S02 E04
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/761719.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN - Canada's Drag Race (2020) S02 E05" tvg-logo="https://image.tmdb.org/t/p/w185/bho5a6oZE0xpF1ofHZB7ChNR6YI.jpg" group-title="Others",EN - Canada's Drag Race (2020) S02 E05
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/761720.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN - Canada's Drag Race (2020) S02 E06" tvg-logo="https://image.tmdb.org/t/p/w185/7AHkukIQQOlcUCk8o5lqTp33izr.jpg" group-title="Others",EN - Canada's Drag Race (2020) S02 E06
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/761721.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN - Canada's Drag Race (2020) S02 E07" tvg-logo="https://image.tmdb.org/t/p/w185/zdQZzOnz9mVM1bdRls5fDECeuhp.jpg" group-title="Others",EN - Canada's Drag Race (2020) S02 E07
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/761722.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN - Canada's Drag Race (2020) S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dP4Z0D32XAbQ5YORSE7k5a79AfG.jpg" group-title="Others",EN - Canada's Drag Race (2020) S02 E08
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/761728.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN - Canada's Drag Race (2020) S02 E09" tvg-logo="https://image.tmdb.org/t/p/w185/9gwAIvOJaHnV1IqAOjnqGwaegxt.jpg" group-title="Others",EN - Canada's Drag Race (2020) S02 E09
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/761704.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN - Canada's Drag Race (2020) S02 E10" tvg-logo="https://image.tmdb.org/t/p/w185/zICgKfEF8UiUb2psjMHorYcbn9H.jpg" group-title="Others",EN - Canada's Drag Race (2020) S02 E10
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/761723.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN - Canada's Drag Race (2020) S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dP4Z0D32XAbQ5YORSE7k5a79AfG.jpg" group-title="Others",EN - Canada's Drag Race (2020) S03 E01
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/761724.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN - Canada's Drag Race (2020) S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dP4Z0D32XAbQ5YORSE7k5a79AfG.jpg" group-title="Others",EN - Canada's Drag Race (2020) S03 E02
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/761725.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN - Canada's Drag Race (2020) S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dP4Z0D32XAbQ5YORSE7k5a79AfG.jpg" group-title="Others",EN - Canada's Drag Race (2020) S03 E03
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/761726.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN - Canada's Drag Race (2020) S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dP4Z0D32XAbQ5YORSE7k5a79AfG.jpg" group-title="Others",EN - Canada's Drag Race (2020) S03 E04
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/761727.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN - Canada's Drag Race (2020) S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dP4Z0D32XAbQ5YORSE7k5a79AfG.jpg" group-title="Others",EN - Canada's Drag Race (2020) S03 E05
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/764293.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN - Canada's Drag Race (2020) S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dP4Z0D32XAbQ5YORSE7k5a79AfG.jpg" group-title="Others",EN - Canada's Drag Race (2020) S03 E06
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/767226.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN - Canada's Drag Race (2020) S03 E07" tvg-logo="https://image.tmdb.org/t/p/w185/2nDMngB76ZXjmQsCxSbmGgufzdZ.jpg" group-title="Others",EN - Canada's Drag Race (2020) S03 E07
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/770166.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN - Canada's Drag Race (2020) S03 E08" tvg-logo="https://image.tmdb.org/t/p/w185/7VVkt9sqv6P8XD9EEdrgW5qw4b1.jpg" group-title="Others",EN - Canada's Drag Race (2020) S03 E08
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/777366.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - Canada's Drag Race (2020) S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dP4Z0D32XAbQ5YORSE7k5a79AfG.jpg" group-title="Others",EN - Canada's Drag Race (2020) S03 E09
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/777367.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - LOL: Last One Laughing Canada (2022) S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/62Jz1O9vbBnVQtkafSzEOzlMPd8.jpg" group-title="Others",EN - LOL: Last One Laughing Canada (2022) S01 E01
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/736419.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN - LOL: Last One Laughing Canada (2022) S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/62Jz1O9vbBnVQtkafSzEOzlMPd8.jpg" group-title="Others",EN - LOL: Last One Laughing Canada (2022) S01 E02
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/736420.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN - LOL: Last One Laughing Canada (2022) S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/62Jz1O9vbBnVQtkafSzEOzlMPd8.jpg" group-title="Others",EN - LOL: Last One Laughing Canada (2022) S01 E03
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/736421.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN - LOL: Last One Laughing Canada (2022) S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/62Jz1O9vbBnVQtkafSzEOzlMPd8.jpg" group-title="Others",EN - LOL: Last One Laughing Canada (2022) S01 E04
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/736422.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN - LOL: Last One Laughing Canada (2022) S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/62Jz1O9vbBnVQtkafSzEOzlMPd8.jpg" group-title="Others",EN - LOL: Last One Laughing Canada (2022) S01 E05
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/736423.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN - LOL: Last One Laughing Canada (2022) S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/62Jz1O9vbBnVQtkafSzEOzlMPd8.jpg" group-title="Others",EN - LOL: Last One Laughing Canada (2022) S01 E06
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/736424.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN - Canada's Drag Race: Canada vs The World (2022) S01 E01" tvg-logo="https://image.tmdb.org/t/p/w185/qABGyU1T6fFRScIUG5njKG3E2pv.jpg" group-title="Others",EN - Canada's Drag Race: Canada vs The World (2022) S01 E01
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/824525.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN - Canada's Drag Race: Canada vs The World (2022) S01 E02" tvg-logo="https://image.tmdb.org/t/p/w185/7iw8Sxac1mqQuKt92H7woMvoZVd.jpg" group-title="Others",EN - Canada's Drag Race: Canada vs The World (2022) S01 E02
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/824526.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN - Canada's Drag Race: Canada vs The World (2022) S01 E03" tvg-logo="https://image.tmdb.org/t/p/w185/91LucSagxoKwS56OJviKq4VTKme.jpg" group-title="Others",EN - Canada's Drag Race: Canada vs The World (2022) S01 E03
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/824527.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN - Canada's Drag Race: Canada vs The World (2022) S01 E04" tvg-logo="https://image.tmdb.org/t/p/w185/sokoaDBfTcnWa10Lwl0vYWEt0o5.jpg" group-title="Others",EN - Canada's Drag Race: Canada vs The World (2022) S01 E04
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/824528.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN - Canada's Drag Race: Canada vs The World (2022) S01 E05" tvg-logo="https://image.tmdb.org/t/p/w185/aNrwVh5fSZMbFPE4QYeHuM6fuRF.jpg" group-title="Others",EN - Canada's Drag Race: Canada vs The World (2022) S01 E05
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/824529.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN - Canada's Drag Race: Canada vs The World (2022) S01 E06" tvg-logo="https://image.tmdb.org/t/p/w185/wxReLu25eYcFkOGcFdBiFbky4yz.jpg" group-title="Others",EN - Canada's Drag Race: Canada vs The World (2022) S01 E06
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/829033.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN - Canada's Worst Driver (2005) S08 E01" tvg-logo="https://image.tmdb.org/t/p/w154/xWk9KojwlrfPEi67hU3iNJdUZVA.jpg" group-title="Others",EN - Canada's Worst Driver (2005) S08 E01
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/835669.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - Canada's Worst Driver (2005) S08 E02" tvg-logo="https://image.tmdb.org/t/p/w154/xWk9KojwlrfPEi67hU3iNJdUZVA.jpg" group-title="Others",EN - Canada's Worst Driver (2005) S08 E02
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/835670.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - Canada's Worst Driver (2005) S08 E03" tvg-logo="https://image.tmdb.org/t/p/w154/xWk9KojwlrfPEi67hU3iNJdUZVA.jpg" group-title="Others",EN - Canada's Worst Driver (2005) S08 E03
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/835671.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - Canada's Worst Driver (2005) S08 E04" tvg-logo="https://image.tmdb.org/t/p/w154/xWk9KojwlrfPEi67hU3iNJdUZVA.jpg" group-title="Others",EN - Canada's Worst Driver (2005) S08 E04
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/835672.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - Canada's Worst Driver (2005) S08 E05" tvg-logo="https://image.tmdb.org/t/p/w154/xWk9KojwlrfPEi67hU3iNJdUZVA.jpg" group-title="Others",EN - Canada's Worst Driver (2005) S08 E05
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/835673.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - Canada's Worst Driver (2005) S08 E06" tvg-logo="https://image.tmdb.org/t/p/w154/xWk9KojwlrfPEi67hU3iNJdUZVA.jpg" group-title="Others",EN - Canada's Worst Driver (2005) S08 E06
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/835674.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - Canada's Worst Driver (2005) S08 E07" tvg-logo="https://image.tmdb.org/t/p/w154/xWk9KojwlrfPEi67hU3iNJdUZVA.jpg" group-title="Others",EN - Canada's Worst Driver (2005) S08 E07
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/835675.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - Canada's Worst Driver (2005) S08 E08" tvg-logo="https://image.tmdb.org/t/p/w154/xWk9KojwlrfPEi67hU3iNJdUZVA.jpg" group-title="Others",EN - Canada's Worst Driver (2005) S08 E08
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/835676.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - Canada's Worst Driver (2005) S09 E00" tvg-logo="https://image.tmdb.org/t/p/w154/xWk9KojwlrfPEi67hU3iNJdUZVA.jpg" group-title="Others",EN - Canada's Worst Driver (2005) S09 E00
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/835677.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - Canada's Worst Driver (2005) S09 E01" tvg-logo="https://image.tmdb.org/t/p/w154/xWk9KojwlrfPEi67hU3iNJdUZVA.jpg" group-title="Others",EN - Canada's Worst Driver (2005) S09 E01
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/835678.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - Canada's Worst Driver (2005) S09 E02" tvg-logo="https://image.tmdb.org/t/p/w154/xWk9KojwlrfPEi67hU3iNJdUZVA.jpg" group-title="Others",EN - Canada's Worst Driver (2005) S09 E02
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/835679.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - Canada's Worst Driver (2005) S09 E03" tvg-logo="https://image.tmdb.org/t/p/w154/xWk9KojwlrfPEi67hU3iNJdUZVA.jpg" group-title="Others",EN - Canada's Worst Driver (2005) S09 E03
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/835680.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - Canada's Worst Driver (2005) S09 E04" tvg-logo="https://image.tmdb.org/t/p/w154/xWk9KojwlrfPEi67hU3iNJdUZVA.jpg" group-title="Others",EN - Canada's Worst Driver (2005) S09 E04
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/835681.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN - Canada's Worst Driver (2005) S09 E05" tvg-logo="https://image.tmdb.org/t/p/w154/xWk9KojwlrfPEi67hU3iNJdUZVA.jpg" group-title="Others",EN - Canada's Worst Driver (2005) S09 E05
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/835682.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - Canada's Worst Driver (2005) S09 E06" tvg-logo="https://image.tmdb.org/t/p/w154/xWk9KojwlrfPEi67hU3iNJdUZVA.jpg" group-title="Others",EN - Canada's Worst Driver (2005) S09 E06
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/835683.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - Canada's Worst Driver (2005) S09 E07" tvg-logo="https://image.tmdb.org/t/p/w154/xWk9KojwlrfPEi67hU3iNJdUZVA.jpg" group-title="Others",EN - Canada's Worst Driver (2005) S09 E07
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/835684.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN - Canada's Worst Driver (2005) S09 E08" tvg-logo="https://image.tmdb.org/t/p/w154/xWk9KojwlrfPEi67hU3iNJdUZVA.jpg" group-title="Others",EN - Canada's Worst Driver (2005) S09 E08
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/835685.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - Canada's Worst Driver (2005) S10 E01" tvg-logo="https://image.tmdb.org/t/p/w154/xWk9KojwlrfPEi67hU3iNJdUZVA.jpg" group-title="Others",EN - Canada's Worst Driver (2005) S10 E01
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/835660.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - Canada's Worst Driver (2005) S10 E02" tvg-logo="https://image.tmdb.org/t/p/w154/xWk9KojwlrfPEi67hU3iNJdUZVA.jpg" group-title="Others",EN - Canada's Worst Driver (2005) S10 E02
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/835653.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - Canada's Worst Driver (2005) S10 E03" tvg-logo="https://image.tmdb.org/t/p/w154/xWk9KojwlrfPEi67hU3iNJdUZVA.jpg" group-title="Others",EN - Canada's Worst Driver (2005) S10 E03
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/835654.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - Canada's Worst Driver (2005) S10 E04" tvg-logo="https://image.tmdb.org/t/p/w154/xWk9KojwlrfPEi67hU3iNJdUZVA.jpg" group-title="Others",EN - Canada's Worst Driver (2005) S10 E04
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/835655.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - Canada's Worst Driver (2005) S10 E05" tvg-logo="https://image.tmdb.org/t/p/w154/xWk9KojwlrfPEi67hU3iNJdUZVA.jpg" group-title="Others",EN - Canada's Worst Driver (2005) S10 E05
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/835656.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - Canada's Worst Driver (2005) S10 E06" tvg-logo="https://image.tmdb.org/t/p/w154/xWk9KojwlrfPEi67hU3iNJdUZVA.jpg" group-title="Others",EN - Canada's Worst Driver (2005) S10 E06
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/835657.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - Canada's Worst Driver (2005) S10 E07" tvg-logo="https://image.tmdb.org/t/p/w154/xWk9KojwlrfPEi67hU3iNJdUZVA.jpg" group-title="Others",EN - Canada's Worst Driver (2005) S10 E07
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/835658.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - Canada's Worst Driver (2005) S10 E08" tvg-logo="https://image.tmdb.org/t/p/w154/xWk9KojwlrfPEi67hU3iNJdUZVA.jpg" group-title="Others",EN - Canada's Worst Driver (2005) S10 E08
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/835659.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - Canada's Worst Driver (2005) S12 E01" tvg-logo="https://image.tmdb.org/t/p/w154/xWk9KojwlrfPEi67hU3iNJdUZVA.jpg" group-title="Others",EN - Canada's Worst Driver (2005) S12 E01
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/835661.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN - Canada's Worst Driver (2005) S12 E02" tvg-logo="https://image.tmdb.org/t/p/w154/xWk9KojwlrfPEi67hU3iNJdUZVA.jpg" group-title="Others",EN - Canada's Worst Driver (2005) S12 E02
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/835662.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN - Canada's Worst Driver (2005) S12 E03" tvg-logo="https://image.tmdb.org/t/p/w154/xWk9KojwlrfPEi67hU3iNJdUZVA.jpg" group-title="Others",EN - Canada's Worst Driver (2005) S12 E03
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/835663.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN - Canada's Worst Driver (2005) S12 E04" tvg-logo="https://image.tmdb.org/t/p/w154/xWk9KojwlrfPEi67hU3iNJdUZVA.jpg" group-title="Others",EN - Canada's Worst Driver (2005) S12 E04
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/835664.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN - Canada's Worst Driver (2005) S12 E05" tvg-logo="https://image.tmdb.org/t/p/w154/xWk9KojwlrfPEi67hU3iNJdUZVA.jpg" group-title="Others",EN - Canada's Worst Driver (2005) S12 E05
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/835665.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN - Canada's Worst Driver (2005) S12 E06" tvg-logo="https://image.tmdb.org/t/p/w154/xWk9KojwlrfPEi67hU3iNJdUZVA.jpg" group-title="Others",EN - Canada's Worst Driver (2005) S12 E06
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/835666.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN - Canada's Worst Driver (2005) S12 E07" tvg-logo="https://image.tmdb.org/t/p/w154/xWk9KojwlrfPEi67hU3iNJdUZVA.jpg" group-title="Others",EN - Canada's Worst Driver (2005) S12 E07
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/835667.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN - Canada's Worst Driver (2005) S12 E08" tvg-logo="https://image.tmdb.org/t/p/w154/xWk9KojwlrfPEi67hU3iNJdUZVA.jpg" group-title="Others",EN - Canada's Worst Driver (2005) S12 E08
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/835668.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN - Bachelor in Paradise Canada (2021) S01 E01" tvg-logo="https://image.tmdb.org/t/p/w154/8ROI5FQDItZEgguhPuVpXl6Svvr.jpg" group-title="Others",EN - Bachelor in Paradise Canada (2021) S01 E01
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/861610.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN - Bachelor in Paradise Canada (2021) S01 E02" tvg-logo="https://image.tmdb.org/t/p/w154/8ROI5FQDItZEgguhPuVpXl6Svvr.jpg" group-title="Others",EN - Bachelor in Paradise Canada (2021) S01 E02
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/861611.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN - Bachelor in Paradise Canada (2021) S01 E03" tvg-logo="https://image.tmdb.org/t/p/w154/8ROI5FQDItZEgguhPuVpXl6Svvr.jpg" group-title="Others",EN - Bachelor in Paradise Canada (2021) S01 E03
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/861612.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN - Bachelor in Paradise Canada (2021) S01 E04" tvg-logo="https://image.tmdb.org/t/p/w154/8ROI5FQDItZEgguhPuVpXl6Svvr.jpg" group-title="Others",EN - Bachelor in Paradise Canada (2021) S01 E04
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/861613.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN - Bachelor in Paradise Canada (2021) S01 E05" tvg-logo="https://image.tmdb.org/t/p/w154/8ROI5FQDItZEgguhPuVpXl6Svvr.jpg" group-title="Others",EN - Bachelor in Paradise Canada (2021) S01 E05
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/861614.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN - Bachelor in Paradise Canada (2021) S01 E06" tvg-logo="https://image.tmdb.org/t/p/w154/8ROI5FQDItZEgguhPuVpXl6Svvr.jpg" group-title="Others",EN - Bachelor in Paradise Canada (2021) S01 E06
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/861615.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN - Bachelor in Paradise Canada (2021) S01 E07" tvg-logo="https://image.tmdb.org/t/p/w154/8ROI5FQDItZEgguhPuVpXl6Svvr.jpg" group-title="Others",EN - Bachelor in Paradise Canada (2021) S01 E07
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/864072.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - Bachelor in Paradise Canada (2021) S01 E08" tvg-logo="https://image.tmdb.org/t/p/w154/8ROI5FQDItZEgguhPuVpXl6Svvr.jpg" group-title="Others",EN - Bachelor in Paradise Canada (2021) S01 E08
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/861616.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN - Bachelor in Paradise Canada (2021) S01 E09" tvg-logo="https://image.tmdb.org/t/p/w154/8ROI5FQDItZEgguhPuVpXl6Svvr.jpg" group-title="Others",EN - Bachelor in Paradise Canada (2021) S01 E09
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/861617.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN - Bachelor in Paradise Canada (2021) S01 E10" tvg-logo="https://image.tmdb.org/t/p/w154/8ROI5FQDItZEgguhPuVpXl6Svvr.jpg" group-title="Others",EN - Bachelor in Paradise Canada (2021) S01 E10
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/861618.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S01 E01" tvg-logo="https://image.tmdb.org/t/p/w185/7iWvuUgOPKea20F5F6MhAgLogou.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S01 E01
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968288.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S01 E02" tvg-logo="https://image.tmdb.org/t/p/w185/5nJtKJIBdSaZgroZ2AO4rFLileC.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S01 E02
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968289.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S01 E03" tvg-logo="https://image.tmdb.org/t/p/w185/3M7lkoZXb058FHbyEjVIFplWrxW.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S01 E03
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968290.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S01 E04" tvg-logo="https://image.tmdb.org/t/p/w185/fdLQLDIpUPWzGoiRYNwmZ7ZXtDV.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S01 E04
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968291.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S01 E05" tvg-logo="https://image.tmdb.org/t/p/w185/9Kc5V4gOq4RW199kTAWFGJ9bw00.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S01 E05
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968292.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S01 E06" tvg-logo="https://image.tmdb.org/t/p/w185/pw4DyY5di5Yg1MOyjQ2GHKig174.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S01 E06
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968293.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S01 E07" tvg-logo="https://image.tmdb.org/t/p/w185/yMkFiwJPDYeeUedEwhfjCYrVztq.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S01 E07
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968294.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S01 E08" tvg-logo="https://image.tmdb.org/t/p/w185/ztDaYAfGzf2tON1o56wrKtza4Hz.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S01 E08
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968295.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S01 E09" tvg-logo="https://image.tmdb.org/t/p/w185/wrLLJ47x24OpTD346HvqLpr9sEE.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S01 E09
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968296.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S01 E10" tvg-logo="https://image.tmdb.org/t/p/w185/gt8BgqT2Q7SH6HSwwODVztWZY2v.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S01 E10
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968297.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S01 E11" tvg-logo="https://image.tmdb.org/t/p/w185/5Ze586pm76k9BwJKbmp6XoDcm65.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S01 E11
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968298.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S01 E12" tvg-logo="https://image.tmdb.org/t/p/w185/bw5Vl4gKxA5F24a7B2SqEP2dWq7.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S01 E12
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968299.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S01 E13" tvg-logo="https://image.tmdb.org/t/p/w185/p46OWacQc7HdFilsqrBYgij1oW9.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S01 E13
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968300.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S01 E14" tvg-logo="https://image.tmdb.org/t/p/w185/z0BKk3zdcjeuBlsHs1tE8HFvXPu.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S01 E14
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968301.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S01 E15" tvg-logo="https://image.tmdb.org/t/p/w185/7aU9cvXykMWGVM47hhZ2Vo1O82p.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S01 E15
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968302.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S01 E16" tvg-logo="https://image.tmdb.org/t/p/w185/8FtXAHp8vVCZZsZ5xnQ8bg5OPDH.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S01 E16
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968303.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S01 E17" tvg-logo="https://image.tmdb.org/t/p/w185/9JNQge6nPmELrbfhgRQpYB1L8SR.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S01 E17
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968304.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S01 E18" tvg-logo="https://image.tmdb.org/t/p/w185/tVNvSalha1WmnpbkboyCny7KWbA.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S01 E18
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968305.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S01 E19" tvg-logo="https://image.tmdb.org/t/p/w185/8Td0YUuqkDh3zaVtnid3GaH8ghP.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S01 E19
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968306.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S01 E20" tvg-logo="https://image.tmdb.org/t/p/w185/yIuiQSj668RhoHVRdaHM030N6E0.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S01 E20
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968307.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S01 E21" tvg-logo="https://image.tmdb.org/t/p/w185/sBIMLNqF5100xYEmwdX7fG4xYda.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S01 E21
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968308.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S01 E22" tvg-logo="https://image.tmdb.org/t/p/w185/dtwCYB5SjWkO1ngay429CNOsF5N.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S01 E22
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968309.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S02 E01" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJmZmJjZjEtODk0My00NmZjLTk2NjktNTk4ZWQ5ZDQxZTdmXkEyXkFqcGdeQXVyMjMwODU0MjI@._V1_.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S02 E01
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968311.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S02 E02" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJmZmJjZjEtODk0My00NmZjLTk2NjktNTk4ZWQ5ZDQxZTdmXkEyXkFqcGdeQXVyMjMwODU0MjI@._V1_.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S02 E02
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968312.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S02 E03" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJmZmJjZjEtODk0My00NmZjLTk2NjktNTk4ZWQ5ZDQxZTdmXkEyXkFqcGdeQXVyMjMwODU0MjI@._V1_.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S02 E03
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968313.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S02 E04" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJmZmJjZjEtODk0My00NmZjLTk2NjktNTk4ZWQ5ZDQxZTdmXkEyXkFqcGdeQXVyMjMwODU0MjI@._V1_.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S02 E04
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968314.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S02 E05" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJmZmJjZjEtODk0My00NmZjLTk2NjktNTk4ZWQ5ZDQxZTdmXkEyXkFqcGdeQXVyMjMwODU0MjI@._V1_.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S02 E05
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968315.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S02 E06" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJmZmJjZjEtODk0My00NmZjLTk2NjktNTk4ZWQ5ZDQxZTdmXkEyXkFqcGdeQXVyMjMwODU0MjI@._V1_.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S02 E06
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968316.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S02 E07" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJmZmJjZjEtODk0My00NmZjLTk2NjktNTk4ZWQ5ZDQxZTdmXkEyXkFqcGdeQXVyMjMwODU0MjI@._V1_.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S02 E07
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968317.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S02 E08" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJmZmJjZjEtODk0My00NmZjLTk2NjktNTk4ZWQ5ZDQxZTdmXkEyXkFqcGdeQXVyMjMwODU0MjI@._V1_.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S02 E08
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968318.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S02 E09" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJmZmJjZjEtODk0My00NmZjLTk2NjktNTk4ZWQ5ZDQxZTdmXkEyXkFqcGdeQXVyMjMwODU0MjI@._V1_.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S02 E09
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968319.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S02 E10" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJmZmJjZjEtODk0My00NmZjLTk2NjktNTk4ZWQ5ZDQxZTdmXkEyXkFqcGdeQXVyMjMwODU0MjI@._V1_.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S02 E10
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968320.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S02 E11" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJmZmJjZjEtODk0My00NmZjLTk2NjktNTk4ZWQ5ZDQxZTdmXkEyXkFqcGdeQXVyMjMwODU0MjI@._V1_.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S02 E11
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968321.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S02 E12" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJmZmJjZjEtODk0My00NmZjLTk2NjktNTk4ZWQ5ZDQxZTdmXkEyXkFqcGdeQXVyMjMwODU0MjI@._V1_.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S02 E12
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968322.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S02 E13" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJmZmJjZjEtODk0My00NmZjLTk2NjktNTk4ZWQ5ZDQxZTdmXkEyXkFqcGdeQXVyMjMwODU0MjI@._V1_.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S02 E13
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968323.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S02 E14" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJmZmJjZjEtODk0My00NmZjLTk2NjktNTk4ZWQ5ZDQxZTdmXkEyXkFqcGdeQXVyMjMwODU0MjI@._V1_.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S02 E14
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968324.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S02 E15" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJmZmJjZjEtODk0My00NmZjLTk2NjktNTk4ZWQ5ZDQxZTdmXkEyXkFqcGdeQXVyMjMwODU0MjI@._V1_.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S02 E15
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968325.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S02 E16" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJmZmJjZjEtODk0My00NmZjLTk2NjktNTk4ZWQ5ZDQxZTdmXkEyXkFqcGdeQXVyMjMwODU0MjI@._V1_.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S02 E16
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968326.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S02 E17" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJmZmJjZjEtODk0My00NmZjLTk2NjktNTk4ZWQ5ZDQxZTdmXkEyXkFqcGdeQXVyMjMwODU0MjI@._V1_.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S02 E17
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968327.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S02 E18" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJmZmJjZjEtODk0My00NmZjLTk2NjktNTk4ZWQ5ZDQxZTdmXkEyXkFqcGdeQXVyMjMwODU0MjI@._V1_.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S02 E18
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968328.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S02 E19" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJmZmJjZjEtODk0My00NmZjLTk2NjktNTk4ZWQ5ZDQxZTdmXkEyXkFqcGdeQXVyMjMwODU0MjI@._V1_.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S02 E19
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968329.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S02 E20" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJmZmJjZjEtODk0My00NmZjLTk2NjktNTk4ZWQ5ZDQxZTdmXkEyXkFqcGdeQXVyMjMwODU0MjI@._V1_.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S02 E20
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968330.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S02 E21" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJmZmJjZjEtODk0My00NmZjLTk2NjktNTk4ZWQ5ZDQxZTdmXkEyXkFqcGdeQXVyMjMwODU0MjI@._V1_.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S02 E21
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968331.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S02 E22" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJmZmJjZjEtODk0My00NmZjLTk2NjktNTk4ZWQ5ZDQxZTdmXkEyXkFqcGdeQXVyMjMwODU0MjI@._V1_.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S02 E22
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968332.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S02 E23" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJmZmJjZjEtODk0My00NmZjLTk2NjktNTk4ZWQ5ZDQxZTdmXkEyXkFqcGdeQXVyMjMwODU0MjI@._V1_.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S02 E23
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968333.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S03 E01" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJmZmJjZjEtODk0My00NmZjLTk2NjktNTk4ZWQ5ZDQxZTdmXkEyXkFqcGdeQXVyMjMwODU0MjI@._V1_.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S03 E01
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968334.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S03 E02" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJmZmJjZjEtODk0My00NmZjLTk2NjktNTk4ZWQ5ZDQxZTdmXkEyXkFqcGdeQXVyMjMwODU0MjI@._V1_.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S03 E02
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968335.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S03 E03" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJmZmJjZjEtODk0My00NmZjLTk2NjktNTk4ZWQ5ZDQxZTdmXkEyXkFqcGdeQXVyMjMwODU0MjI@._V1_.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S03 E03
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968336.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S03 E04" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJmZmJjZjEtODk0My00NmZjLTk2NjktNTk4ZWQ5ZDQxZTdmXkEyXkFqcGdeQXVyMjMwODU0MjI@._V1_.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S03 E04
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968337.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S03 E05" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJmZmJjZjEtODk0My00NmZjLTk2NjktNTk4ZWQ5ZDQxZTdmXkEyXkFqcGdeQXVyMjMwODU0MjI@._V1_.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S03 E05
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968338.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S03 E06" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJmZmJjZjEtODk0My00NmZjLTk2NjktNTk4ZWQ5ZDQxZTdmXkEyXkFqcGdeQXVyMjMwODU0MjI@._V1_.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S03 E06
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968339.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S03 E07" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJmZmJjZjEtODk0My00NmZjLTk2NjktNTk4ZWQ5ZDQxZTdmXkEyXkFqcGdeQXVyMjMwODU0MjI@._V1_.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S03 E07
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968340.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S03 E08" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJmZmJjZjEtODk0My00NmZjLTk2NjktNTk4ZWQ5ZDQxZTdmXkEyXkFqcGdeQXVyMjMwODU0MjI@._V1_.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S03 E08
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968341.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S03 E09" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJmZmJjZjEtODk0My00NmZjLTk2NjktNTk4ZWQ5ZDQxZTdmXkEyXkFqcGdeQXVyMjMwODU0MjI@._V1_.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S03 E09
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968342.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S03 E10" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJmZmJjZjEtODk0My00NmZjLTk2NjktNTk4ZWQ5ZDQxZTdmXkEyXkFqcGdeQXVyMjMwODU0MjI@._V1_.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S03 E10
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968343.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S03 E11" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJmZmJjZjEtODk0My00NmZjLTk2NjktNTk4ZWQ5ZDQxZTdmXkEyXkFqcGdeQXVyMjMwODU0MjI@._V1_.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S03 E11
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968344.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S03 E12" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJmZmJjZjEtODk0My00NmZjLTk2NjktNTk4ZWQ5ZDQxZTdmXkEyXkFqcGdeQXVyMjMwODU0MjI@._V1_.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S03 E12
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968345.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S03 E13" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJmZmJjZjEtODk0My00NmZjLTk2NjktNTk4ZWQ5ZDQxZTdmXkEyXkFqcGdeQXVyMjMwODU0MjI@._V1_.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S03 E13
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968346.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S03 E14" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJmZmJjZjEtODk0My00NmZjLTk2NjktNTk4ZWQ5ZDQxZTdmXkEyXkFqcGdeQXVyMjMwODU0MjI@._V1_.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S03 E14
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968347.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S03 E15" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJmZmJjZjEtODk0My00NmZjLTk2NjktNTk4ZWQ5ZDQxZTdmXkEyXkFqcGdeQXVyMjMwODU0MjI@._V1_.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S03 E15
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968348.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S03 E16" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJmZmJjZjEtODk0My00NmZjLTk2NjktNTk4ZWQ5ZDQxZTdmXkEyXkFqcGdeQXVyMjMwODU0MjI@._V1_.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S03 E16
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968349.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S03 E17" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJmZmJjZjEtODk0My00NmZjLTk2NjktNTk4ZWQ5ZDQxZTdmXkEyXkFqcGdeQXVyMjMwODU0MjI@._V1_.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S03 E17
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968350.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S03 E18" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJmZmJjZjEtODk0My00NmZjLTk2NjktNTk4ZWQ5ZDQxZTdmXkEyXkFqcGdeQXVyMjMwODU0MjI@._V1_.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S03 E18
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968351.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S03 E19" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJmZmJjZjEtODk0My00NmZjLTk2NjktNTk4ZWQ5ZDQxZTdmXkEyXkFqcGdeQXVyMjMwODU0MjI@._V1_.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S03 E19
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968352.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S03 E20" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJmZmJjZjEtODk0My00NmZjLTk2NjktNTk4ZWQ5ZDQxZTdmXkEyXkFqcGdeQXVyMjMwODU0MjI@._V1_.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S03 E20
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968353.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S03 E21" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJmZmJjZjEtODk0My00NmZjLTk2NjktNTk4ZWQ5ZDQxZTdmXkEyXkFqcGdeQXVyMjMwODU0MjI@._V1_.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S03 E21
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968354.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S03 E22" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJmZmJjZjEtODk0My00NmZjLTk2NjktNTk4ZWQ5ZDQxZTdmXkEyXkFqcGdeQXVyMjMwODU0MjI@._V1_.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S03 E22
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968355.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S03 E23" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJmZmJjZjEtODk0My00NmZjLTk2NjktNTk4ZWQ5ZDQxZTdmXkEyXkFqcGdeQXVyMjMwODU0MjI@._V1_.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S03 E23
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968356.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S03 E24" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJmZmJjZjEtODk0My00NmZjLTk2NjktNTk4ZWQ5ZDQxZTdmXkEyXkFqcGdeQXVyMjMwODU0MjI@._V1_.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S03 E24
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968357.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S04 E01" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJmZmJjZjEtODk0My00NmZjLTk2NjktNTk4ZWQ5ZDQxZTdmXkEyXkFqcGdeQXVyMjMwODU0MjI@._V1_.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S04 E01
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968358.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S04 E02" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJmZmJjZjEtODk0My00NmZjLTk2NjktNTk4ZWQ5ZDQxZTdmXkEyXkFqcGdeQXVyMjMwODU0MjI@._V1_.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S04 E02
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968359.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S04 E03" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJmZmJjZjEtODk0My00NmZjLTk2NjktNTk4ZWQ5ZDQxZTdmXkEyXkFqcGdeQXVyMjMwODU0MjI@._V1_.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S04 E03
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968360.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S04 E04" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJmZmJjZjEtODk0My00NmZjLTk2NjktNTk4ZWQ5ZDQxZTdmXkEyXkFqcGdeQXVyMjMwODU0MjI@._V1_.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S04 E04
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968361.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S04 E05" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJmZmJjZjEtODk0My00NmZjLTk2NjktNTk4ZWQ5ZDQxZTdmXkEyXkFqcGdeQXVyMjMwODU0MjI@._V1_.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S04 E05
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968362.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S04 E06" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJmZmJjZjEtODk0My00NmZjLTk2NjktNTk4ZWQ5ZDQxZTdmXkEyXkFqcGdeQXVyMjMwODU0MjI@._V1_.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S04 E06
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968363.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S04 E07" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJmZmJjZjEtODk0My00NmZjLTk2NjktNTk4ZWQ5ZDQxZTdmXkEyXkFqcGdeQXVyMjMwODU0MjI@._V1_.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S04 E07
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968364.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S04 E08" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJmZmJjZjEtODk0My00NmZjLTk2NjktNTk4ZWQ5ZDQxZTdmXkEyXkFqcGdeQXVyMjMwODU0MjI@._V1_.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S04 E08
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968365.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S04 E09" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJmZmJjZjEtODk0My00NmZjLTk2NjktNTk4ZWQ5ZDQxZTdmXkEyXkFqcGdeQXVyMjMwODU0MjI@._V1_.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S04 E09
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968366.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S04 E10" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJmZmJjZjEtODk0My00NmZjLTk2NjktNTk4ZWQ5ZDQxZTdmXkEyXkFqcGdeQXVyMjMwODU0MjI@._V1_.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S04 E10
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968367.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S04 E11" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJmZmJjZjEtODk0My00NmZjLTk2NjktNTk4ZWQ5ZDQxZTdmXkEyXkFqcGdeQXVyMjMwODU0MjI@._V1_.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S04 E11
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968368.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S04 E12" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJmZmJjZjEtODk0My00NmZjLTk2NjktNTk4ZWQ5ZDQxZTdmXkEyXkFqcGdeQXVyMjMwODU0MjI@._V1_.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S04 E12
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968369.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S04 E13" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJmZmJjZjEtODk0My00NmZjLTk2NjktNTk4ZWQ5ZDQxZTdmXkEyXkFqcGdeQXVyMjMwODU0MjI@._V1_.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S04 E13
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968370.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S04 E14" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJmZmJjZjEtODk0My00NmZjLTk2NjktNTk4ZWQ5ZDQxZTdmXkEyXkFqcGdeQXVyMjMwODU0MjI@._V1_.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S04 E14
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968371.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S04 E15" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJmZmJjZjEtODk0My00NmZjLTk2NjktNTk4ZWQ5ZDQxZTdmXkEyXkFqcGdeQXVyMjMwODU0MjI@._V1_.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S04 E15
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968372.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S04 E16" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJmZmJjZjEtODk0My00NmZjLTk2NjktNTk4ZWQ5ZDQxZTdmXkEyXkFqcGdeQXVyMjMwODU0MjI@._V1_.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S04 E16
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968373.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S04 E17" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJmZmJjZjEtODk0My00NmZjLTk2NjktNTk4ZWQ5ZDQxZTdmXkEyXkFqcGdeQXVyMjMwODU0MjI@._V1_.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S04 E17
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968374.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S04 E18" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJmZmJjZjEtODk0My00NmZjLTk2NjktNTk4ZWQ5ZDQxZTdmXkEyXkFqcGdeQXVyMjMwODU0MjI@._V1_.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S04 E18
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968375.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S04 E19" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJmZmJjZjEtODk0My00NmZjLTk2NjktNTk4ZWQ5ZDQxZTdmXkEyXkFqcGdeQXVyMjMwODU0MjI@._V1_.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S04 E19
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968376.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S04 E20" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJmZmJjZjEtODk0My00NmZjLTk2NjktNTk4ZWQ5ZDQxZTdmXkEyXkFqcGdeQXVyMjMwODU0MjI@._V1_.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S04 E20
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968377.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S04 E21" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJmZmJjZjEtODk0My00NmZjLTk2NjktNTk4ZWQ5ZDQxZTdmXkEyXkFqcGdeQXVyMjMwODU0MjI@._V1_.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S04 E21
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968378.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S04 E22" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJmZmJjZjEtODk0My00NmZjLTk2NjktNTk4ZWQ5ZDQxZTdmXkEyXkFqcGdeQXVyMjMwODU0MjI@._V1_.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S04 E22
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968379.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - So You Think You Can Dance Canada (2008) S04 E23" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJmZmJjZjEtODk0My00NmZjLTk2NjktNTk4ZWQ5ZDQxZTdmXkEyXkFqcGdeQXVyMjMwODU0MjI@._V1_.jpg" group-title="Others",EN - So You Think You Can Dance Canada (2008) S04 E23
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/968380.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - The Traitors Canada (2023) S01 E01" tvg-logo="https://image.tmdb.org/t/p/w185/k35xsUIFHGGqhyJXvfgIi1MvLfg.jpg" group-title="Others",EN - The Traitors Canada (2023) S01 E01
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/986370.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN - The Traitors Canada (2023) S01 E02" tvg-logo="https://image.tmdb.org/t/p/w185/4lyZKB9YoPNzuiFqjTLZZali0sE.jpg" group-title="Others",EN - The Traitors Canada (2023) S01 E02
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/986371.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN - The Traitors Canada (2023) S01 E03" tvg-logo="https://image.tmdb.org/t/p/w185/A1zVanSXbxrKMGmENRWs7xQ8BDt.jpg" group-title="Others",EN - The Traitors Canada (2023) S01 E03
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/986372.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN - The Traitors Canada (2023) S01 E04" tvg-logo="https://image.tmdb.org/t/p/w185/A57OWTeHwygbzPwI93BKCD4crca.jpg" group-title="Others",EN - The Traitors Canada (2023) S01 E04
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/986373.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN - The Traitors Canada (2023) S01 E05" tvg-logo="https://image.tmdb.org/t/p/w154/qy47RHpuiNQiyzR3bodOGaL0oy8.jpg" group-title="Others",EN - The Traitors Canada (2023) S01 E05
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/986374.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN - The Traitors Canada (2023) S01 E06" tvg-logo="https://image.tmdb.org/t/p/w185/1Jcfd4WdwxbLynodEjq0IipJs6j.jpg" group-title="Others",EN - The Traitors Canada (2023) S01 E06
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/1296809.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - The Traitors Canada (2023) S01 E07" tvg-logo="https://image.tmdb.org/t/p/w185/uxKCchbhDIs0gAemozX8hiiPVLW.jpg" group-title="Others",EN - The Traitors Canada (2023) S01 E07
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/1296810.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - The Traitors Canada (2023) S01 E08" tvg-logo="https://image.tmdb.org/t/p/w185/5huurzWkJiGDp95Zjd4Hzt7Ol0a.jpg" group-title="Others",EN - The Traitors Canada (2023) S01 E08
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/1296811.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - The Traitors Canada (2023) S01 E09" tvg-logo="https://image.tmdb.org/t/p/w185/wSNQNXc6Y3c34eEDMJj852jHh25.jpg" group-title="Others",EN - The Traitors Canada (2023) S01 E09
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/1296812.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - The Traitors Canada (2023) S01 E10" tvg-logo="https://image.tmdb.org/t/p/w185/bbyitecfYsPUNfDRRNZAoGccFzk.jpg" group-title="Others",EN - The Traitors Canada (2023) S01 E10
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/1296813.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - The Traitors Canada (2023) S02 E01" tvg-logo="https://image.tmdb.org/t/p/w185/lZLcHr3qlRFBDS0tYOhioNUoo9g.jpg" group-title="Others",EN - The Traitors Canada (2023) S02 E01
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/1296814.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - The Traitors Canada (2023) S02 E02" tvg-logo="https://image.tmdb.org/t/p/w185/tkncCeRmyi2BiZ2qAlT00WtzYHX.jpg" group-title="Others",EN - The Traitors Canada (2023) S02 E02
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/1296815.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - The Traitors Canada (2023) S02 E03" tvg-logo="https://image.tmdb.org/t/p/w185/ndn9FRolcG505dRKtaO0xSseB7L.jpg" group-title="Others",EN - The Traitors Canada (2023) S02 E03
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/1296816.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - The Traitors Canada (2023) S02 E04" tvg-logo="https://image.tmdb.org/t/p/w185/lqmdmJ4q2bFmw9uWWbumritP8O8.jpg" group-title="Others",EN - The Traitors Canada (2023) S02 E04
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/1296817.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - The Traitors Canada (2023) S02 E05" tvg-logo="https://image.tmdb.org/t/p/w185/mSlcZjRzIoyCFqNe0L9dROEraa1.jpg" group-title="Others",EN - The Traitors Canada (2023) S02 E05
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/1296818.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - The Traitors Canada (2023) S02 E06" tvg-logo="https://image.tmdb.org/t/p/w185/22oxaV1Nh10pY2vNxmJtASrG7Tm.jpg" group-title="Others",EN - The Traitors Canada (2023) S02 E06
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/1296819.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - The Traitors Canada (2023) S02 E07" tvg-logo="https://image.tmdb.org/t/p/w185/h6Lnb3Hf75cN7Q389GLOzgLtgdp.jpg" group-title="Others",EN - The Traitors Canada (2023) S02 E07
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/1296820.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - The Traitors Canada (2023) S02 E08" tvg-logo="https://image.tmdb.org/t/p/w185/zGqjK7O1iU6meWI4a2fUIMIMLcd.jpg" group-title="Others",EN - The Traitors Canada (2023) S02 E08
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/1296821.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - The Traitors Canada (2023) S02 E09" tvg-logo="https://image.tmdb.org/t/p/w185/bejzZYda3Ol7uchN6hs79Gfy67k.jpg" group-title="Others",EN - The Traitors Canada (2023) S02 E09
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/1296822.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN - The Traitors Canada (2023) S02 E10" tvg-logo="https://image.tmdb.org/t/p/w185/83w9kO9n50fjXWsoG3Q0aCa4e0e.jpg" group-title="Others",EN - The Traitors Canada (2023) S02 E10
+http://2k.asstvs.com:80/series/6727278d4d628/73e2629a74/1296824.mp4
