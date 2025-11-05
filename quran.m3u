@@ -1,0 +1,9 @@
+﻿#EXTM3U
+#EXTINF:0 ,Bahrain Quran
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
+#EXTINF:0 ,Libya Quran
+http://streaming.zaytonatube.com:8080/holyquran/holyquran/video.m3u8
+#EXTINF:0 ,Sharjah Quran
+https://svs.itworkscdn.net/smcquranlive/quranradiolive/playlist.m3u8
+#EXTINF:0 ,Saudi Live Quran
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
