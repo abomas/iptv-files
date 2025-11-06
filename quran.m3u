@@ -7,3 +7,15 @@ http://streaming.zaytonatube.com:8080/holyquran/holyquran/video.m3u8
 https://svs.itworkscdn.net/smcquranlive/quranradiolive/playlist.m3u8
 #EXTINF:0 ,Saudi Live Quran
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
+#EXTINF:0 ,AlQuranAlKareemTV
+https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
+#EXTINF:0 ,Alquran
+https://ktvlive.online/stream/hls/ch1.m3u8
+#EXTINF:0 ,HolyQuranRadioNablus
+http://streaming.zaytonatube.com:8080/holyquran/holyquran/video.m3u8
+#EXTINF:0 ,IqraaQuran
+https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8
+#EXTINF:0 ,QuranTV.ir
+https://lenz.splus.ir/PLTV/88888888/224/3221226144/index.m3u8
+#EXTINF:0 ,QuranRadio.sa
+https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8
