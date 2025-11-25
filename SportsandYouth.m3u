@@ -6,23 +6,11 @@ http://149.100.19.147:8000/play/a02t?checkedby:iptvcat.com
 #EXTINF:-1 xm-ott="{ID}" tvg-id="AL24News.mx" tvg-name="AL24 News" tvg-logo="https://example.com/logo/al24.png" group-title="NEWS",AL24 News
 https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 xm-ott="{ID}" tvg-id="ABNAfrica.mx" tvg-name="ABN Africa" tvg-logo="https://example.com/logo/abnafrica.png" group-title="AFRICA",ABN Africa
-https://mediaserver.abnvideos.com/streams/abnafrica.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 xm-ott="{ID}" tvg-id="Africa24.mx" tvg-name="Africa 24" tvg-logo="https://example.com/logo/africa24.png" group-title="AFRICA",Africa 24
-https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 xm-ott="{ID}" tvg-id="Aflam.mx" tvg-name="Aflam" tvg-logo="https://example.com/logo/aflam.png" group-title="MOVIES",Aflam
-https://shls-live-enc.edgenextcdn.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index.m3u8?checkedby:iptvcat.com
-
 #EXTINF:-1 xm-ott="{ID}" tvg-id="CBSSportsHD.mx" tvg-name="CBS SPORTS HD" tvg-logo="https://example.com/logo/cbssports.png" group-title="SPORTS",CBS SPORTS HD
 http://2k.tstvs.com/691eba43db76f/d07ee0f057/487785
 
 #EXTINF:-1 xm-ott="{ID}" tvg-id="ATTSportsPittsburgh.mx" tvg-name="AT&T SPORTSNET PITTSBURGH HD" tvg-logo="https://example.com/logo/attpittsburgh.png" group-title="SPORTS",AT&T SPORTSNET PITTSBURGH HD
 http://2k.tstvs.com/691eba43db76f/d07ee0f057/705798
-
-#EXTINF:-1 xm-ott="{ID}" tvg-id="ATTSportsSouthwest.mx" tvg-name="AT&T SPORTSNET SOUTHWEST HD" tvg-logo="https://example.com/logo/attsouthwest.png" group-title="SPORTS",AT&T SPORTSNET SOUTHWEST HD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/487677
 
 #EXTINF:-1 xm-ott="{ID}" tvg-id="BeinSportsHD.mx" tvg-name="BEIN SPORTS HD" tvg-logo="https://example.com/logo/beinsports.png" group-title="SPORTS",BEIN SPORTS HD
 http://2k.tstvs.com/691eba43db76f/d07ee0f057/551772
@@ -30,14 +18,8 @@ http://2k.tstvs.com/691eba43db76f/d07ee0f057/551772
 #EXTINF:-1 xm-ott="{ID}" tvg-id="BeinSportsLaLiga.mx" tvg-name="BEIN SPORTS LA LIGA HD" tvg-logo="https://example.com/logo/beinlaliga.png" group-title="SPORTS",BEIN SPORTS LA LIGA HD
 http://2k.tstvs.com/691eba43db76f/d07ee0f057/551771
 
-#EXTINF:-1 xm-ott="{ID}" tvg-id="BeinSportsXtra.mx" tvg-name="BEIN SPORTS XTRA HD" tvg-logo="https://example.com/logo/beinextra.png" group-title="SPORTS",BEIN SPORTS XTRA HD
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/551770
-
 #EXTINF:-1 xm-ott="{ID}" tvg-id="AlJazeera.mx" tvg-name="Al Jazeera" tvg-logo="https://example.com/logo/aljazeera.png" group-title="NEWS",Al Jazeera
 https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 xm-ott="{ID}" tvg-id="AlJazeeraDoc.mx" tvg-name="Al Jazeera Documentary" tvg-logo="https://example.com/logo/aljazeeradoc.png" group-title="DOCUMENTARY",Al Jazeera Documentary
-https://live-hls-apps-ajd-v3-fa.getaj.net/AJD/index.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 xm-ott="{ID}" tvg-id="FOXSports.mx" tvg-name="FOX SPORTS" tvg-logo="https://example.com/logo/foxsports.png" group-title="SPORTS",FOX SPORTS
 http://imaxplay.net:8880//live/BrandonVillavicencio08/JSUHJ/588154.ts
