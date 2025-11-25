@@ -1,0 +1,52 @@
+#EXTM3U
+
+#EXTINF:-1 xm-ott="{ID}" tvg-id="4KidsTV.mx" tvg-name="4Kids TV" tvg-logo="https://example.com/logo/4kids.png" group-title="GENERAL",4Kids TV
+http://149.100.19.147:8000/play/a02t?checkedby:iptvcat.com
+
+#EXTINF:-1 xm-ott="{ID}" tvg-id="AL24News.mx" tvg-name="AL24 News" tvg-logo="https://example.com/logo/al24.png" group-title="NEWS",AL24 News (1080p)
+https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 xm-ott="{ID}" tvg-id="ABNAfrica.mx" tvg-name="ABN Africa" tvg-logo="https://example.com/logo/abnafrica.png" group-title="AFRICA",ABN Africa (480p)
+https://mediaserver.abnvideos.com/streams/abnafrica.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 xm-ott="{ID}" tvg-id="Africa24.mx" tvg-name="Africa 24" tvg-logo="https://example.com/logo/africa24.png" group-title="AFRICA",Africa 24 (1080p)
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 xm-ott="{ID}" tvg-id="Aflam.mx" tvg-name="Aflam" tvg-logo="https://example.com/logo/aflam.png" group-title="MOVIES",Aflam (1080p)
+https://shls-live-enc.edgenextcdn.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 xm-ott="{ID}" tvg-id="CBSSports.mx" tvg-name="SP - CBS SPORTS HD" tvg-logo="https://example.com/logo/cbssports.png" group-title="SPORTS",SP - CBS SPORTS HD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/487785
+
+#EXTINF:-1 xm-ott="{ID}" tvg-id="ATTSportsPittsburgh.mx" tvg-name="SP - AT&T SPORTSNET PITTSBURGH HD" tvg-logo="https://example.com/logo/attpittsburgh.png" group-title="SPORTS",SP - AT&T SPORTSNET PITTSBURGH HD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/705798
+
+#EXTINF:-1 xm-ott="{ID}" tvg-id="ATTSportsSouthwest.mx" tvg-name="SP - AT&T SPORTSNET SOUTHWEST HD" tvg-logo="https://example.com/logo/attsouthwest.png" group-title="SPORTS",SP - AT&T SPORTSNET SOUTHWEST HD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/487677
+
+#EXTINF:-1 xm-ott="{ID}" tvg-id="BeinSports.mx" tvg-name="SP - BEIN SPORTS HD" tvg-logo="https://example.com/logo/beinsports.png" group-title="SPORTS",SP - BEIN SPORTS HD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/551772
+
+#EXTINF:-1 xm-ott="{ID}" tvg-id="BeinSportsLaLiga.mx" tvg-name="SP - BEIN SPORTS LA LIGA HD" tvg-logo="https://example.com/logo/beinlaliga.png" group-title="SPORTS",SP - BEIN SPORTS LA LIGA HD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/551771
+
+#EXTINF:-1 xm-ott="{ID}" tvg-id="BeinSportsXtra.mx" tvg-name="SP - BEIN SPORTS XTRA HD" tvg-logo="https://example.com/logo/beinextra.png" group-title="SPORTS",SP - BEIN SPORTS XTRA HD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/551770
+
+#EXTINF:-1 xm-ott="{ID}" tvg-id="AlJazeera.mx" tvg-name="Al Jazeera" tvg-logo="https://example.com/logo/aljazeera.png" group-title="NEWS",Al Jazeera (1080p)
+https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 xm-ott="{ID}" tvg-id="AlJazeeraDoc.mx" tvg-name="Al Jazeera Documentary" tvg-logo="https://example.com/logo/aljazeeradoc.png" group-title="DOCUMENTARY",Al Jazeera Documentary (1080p)
+https://live-hls-apps-ajd-v3-fa.getaj.net/AJD/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 xm-ott="{ID}" tvg-id="FOXSports.mx" tvg-name="FOX SPORTS" tvg-logo="https://example.com/logo/foxsports.png" group-title="SPORTS",FOX SPORTS
+http://imaxplay.net:8880//live/BrandonVillavicencio08/JSUHJ/588154.ts
+
+#EXTINF:-1 xm-ott="{ID}" tvg-id="FOXSports2.mx" tvg-name="FOX SPORTS 2" tvg-logo="https://example.com/logo/foxsports2.png" group-title="SPORTS",FOX SPORTS 2
+http://imaxplay.net:8880//live/BrandonVillavicencio08/JSUHJ/588155.ts
+
+#EXTINF:-1 xm-ott="{ID}" tvg-id="NBA.mx" tvg-name="US: NBA HD" tvg-logo="https://example.com/logo/nba.png" group-title="SPORTS",US: NBA HD
+http://imaxplay.net:8880//live/BrandonVillavicencio08/JSUHJ/218737.ts
+
+#EXTINF:-1 xm-ott="{ID}" tvg-id="NBATV.mx" tvg-name="NBA TV HD" tvg-logo="https://example.com/logo/nbatv.png" group-title="SPORTS",NBA TV HD
+http://imaxplay.net:8880//live/BrandonVillavicencio08/JSUHJ/590581.ts
