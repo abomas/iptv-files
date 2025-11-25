@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 xm-ott="{ID}" tvg-id="4KidsTV.mx" tvg-name="4Kids TV" tvg-logo="https://example.com/logo/4kids.png" group-title="GENERAL",4Kids TV
+#EXTINF:-1,4Kids TV
 http://2k.tstvs.com/691eba43db76f/d07ee0f057/551772
 
 #EXTINF:-1,Drama HD
@@ -13,6 +13,7 @@ http://imaxplay.net:8880//live/BrandonVillavicencio08/JSUHJ/218838.ts
 
 #EXTINF:-1,Young Hollywood
 http://imaxplay.net:8880//live/BrandonVillavicencio08/JSUHJ/218719.ts
+
 
 
 
