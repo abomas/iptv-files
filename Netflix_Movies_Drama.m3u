@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 xm-ott="{ID}" tvg-id="kanal.d.drama.mx" tvg-name="EN | KANAL D DRAMA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Kanal_D_Drama_%28Latin_America%29.png/revision/latest?cb=20200317052444&path-prefix=es" group-title="ENTRETENIMIENTO",EN | KANAL D DRAMA
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/551772
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/551772.ts
 
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Drama HD" tvg-logo="http://tvstar.live:8880/chimg/6996100263.png" group-title="USA PRUEBA 2",Drama HD
 http://imaxplay.net:8880//live/BrandonVillavicencio08/JSUHJ/219126.ts
@@ -157,4 +157,5 @@ http://imaxplay.net:8880/series/BrandonVillavicencio08/JSUHJ/97710.mkv
 
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Hollywood S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8AvVBcuCpESqdQicuX7s4WOGo1V.jpg" group-title="ZONA NETFLIX",Hollywood S01 E07
 http://imaxplay.net:8880/series/BrandonVillavicencio08/JSUHJ/97711.mkv
+
 
