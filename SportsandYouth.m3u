@@ -11,6 +11,33 @@ https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8?checked
 https://shls-live-enc.edgenextcdn.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="DZ;AO;EG;MA" tvg-logo="https://i.imgur.com/YWIJdai.png" group-title="Sport",Africa 24 English (1080p),Africa 24 Sport (1080p)
 https://edge17.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8?checkedby:iptvcat.com
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/1140333
+#EXTINF:-1 tvg-id="US-CBS Sports Network USA" tvg-name="SP - CBS SPORTS HD" tvg-logo="http://51.158.145.100/picons/logos/USA/CBS-SPORTS.png" group-title="|NA| USA SPORTS",SP - CBS SPORTS HD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/487785
+#EXTINF:-1 tvg-id="" tvg-name="SP - AT&T SPORTSNET PITTSBURGH HD" tvg-logo="http://103.176.90.118/picons/logos/logos/ATT-SPORTSNET-PITTSBURGH.png" group-title="|NA| USA SPORTS",SP - AT&T SPORTSNET PITTSBURGH HD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/705798
+#EXTINF:-1 tvg-id="ATTSW AT&T SportsNet Southwest" tvg-name="SP - AT&T SPORTSNET SOUTHWEST HD" tvg-logo="http://103.176.90.118/picons/logos/logos/ATT-SPORTSNET.png" group-title="|NA| USA SPORTS",SP - AT&T SPORTSNET SOUTHWEST HD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/487677
+#EXTINF:-1 tvg-id="beINSports.us" tvg-name="SP - BEIN SPORTS HD" tvg-logo="http://103.176.90.118/picons-dino/logos/beinsportshd.png" group-title="|NA| USA SPORTS",SP - BEIN SPORTS HD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/551772
+#EXTINF:-1 tvg-id="beINSportsLaLiga.us" tvg-name="SP - BEIN SPORTS LA LIGA HD" tvg-logo="http://103.176.90.118/picons-dino/logos/beinsportslaliga.png" group-title="|NA| USA SPORTS",SP - BEIN SPORTS LA LIGA HD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/551771
+#EXTINF:-1 tvg-id="beINSportsXtra.us" tvg-name="SP - BEIN SPORTS XTRA HD" tvg-logo="http://103.176.90.118/picons-dino/logos/BEIN-SPORTS-XTRA.png" group-title="|NA| USA SPORTS",SP - BEIN SPORTS XTRA HD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/551770
+#EXTINF:-1 tvg-id="" tvg-name="SP - BEIN SPORTS XTRA N (ES) HD" tvg-logo="http://103.176.90.118/picons/logos/beinsportshd.png" group-title="|NA| USA SPORTS",SP - BEIN SPORTS XTRA N (ES) HD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/887676
+#EXTINF:-1 tvg-id="beINSports4.us" tvg-name="SP - BEIN SPORTS 4 HD" tvg-logo="http://51.158.145.100/picons/logos/bein/BEIN-SPORTS-4.png" group-title="|NA| USA SPORTS",SP - BEIN SPORTS 4 HD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/551769
+#EXTINF:-1 tvg-id="beINSports5.us" tvg-name="SP - BEIN SPORTS 5 HD" tvg-logo="http://51.158.145.100/picons/logos/bein/BEIN-SPORTS-5.png" group-title="|NA| USA SPORTS",SP - BEIN SPORTS 5 HD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/551768
+#EXTINF:-1 tvg-id="beINSports6.us" tvg-name="SP - BEIN SPORTS 6 HD" tvg-logo="http://51.158.145.100/picons/logos/bein/BEIN-SPORTS-6.png" group-title="|NA| USA SPORTS",SP - BEIN SPORTS 6 HD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/551767
+#EXTINF:-1 tvg-id="beINSports7.us" tvg-name="SP - BEIN SPORTS 7 HD" tvg-logo="http://51.158.145.100/picons/logos/bein/BEIN-SPORTS-7.png" group-title="|NA| USA SPORTS",SP - BEIN SPORTS 7 HD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/551766
+#EXTINF:-1 tvg-id="beINSports8.us" tvg-name="SP - BEIN SPORTS 8 HD" tvg-logo="http://51.158.145.100/picons/logos/bein/BEIN-SPORTS-8.png" group-title="|NA| USA SPORTS",SP - BEIN SPORTS 8 HD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/551765
+#EXTINF:-1 tvg-id="US-Big Ten Network" tvg-name="SP - BIG TEN NETWORK HD" tvg-logo="http://51.158.145.100/picons/logos/USA/BIG-TEN-NETWORK.png" group-title="|NA| USA SPORTS",SP - BIG TEN NETWORK HD
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/487676
 #EXTINF:0 tvg-country="DZ" tvg-logo="https://i.imgur.com/fWlLvRA.png" group-title="General",Afroturk TV (1080p)
 https://edge.socialsmart.tv/naturaltv/bant1/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="DZ;FR" tvg-logo="" group-title="Sport",Africa 24 Sport (1080p)
@@ -1544,5 +1571,6 @@ http://imaxplay.net:8880//live/BrandonVillavicencio08/JSUHJ/576528.ts
 
 #EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="IZZI | PX SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/PXSPT.svg/revision/latest/scale-to-width-down/300?cb=20210222013123&path-prefix=es" group-title="ZONA IZZI",IZZI | PX SPORTS
 http://imaxplay.net:8880//live/BrandonVillavicencio08/JSUHJ/576544.ts
+
 
 
