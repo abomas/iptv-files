@@ -9,6 +9,12 @@ https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8?checked
 #EXTINF:-1 xm-ott="{ID}" tvg-id="ABNAfrica.mx" tvg-name="ABN Africa" tvg-logo="https://example.com/logo/abnafrica.png" group-title="AFRICA",ABN Africa
 https://mediaserver.abnvideos.com/streams/abnafrica.m3u8?checkedby:iptvcat.com
 
+#EXTINF:-1 xm-ott="{ID}" tvg-id="Africa24.mx" tvg-name="Africa 24" tvg-logo="https://example.com/logo/africa24.png" group-title="AFRICA",Africa 24
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 xm-ott="{ID}" tvg-id="Aflam.mx" tvg-name="Aflam" tvg-logo="https://example.com/logo/aflam.png" group-title="MOVIES",Aflam
+https://shls-live-enc.edgenextcdn.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index.m3u8?checkedby:iptvcat.com
+
 #EXTINF:-1 xm-ott="{ID}" tvg-id="CBSSportsHD.mx" tvg-name="CBS SPORTS HD" tvg-logo="https://example.com/logo/cbssports.png" group-title="SPORTS",CBS SPORTS HD
 http://2k.tstvs.com/691eba43db76f/d07ee0f057/487785
 
