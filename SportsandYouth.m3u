@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,4Kids TV
-http://2k.tstvs.com/691eba43db76f/d07ee0f057/551772
+http://2k.tstvs.com/691eba43db76f/d07ee0f057/551772.m3u8
 
 #EXTINF:-1,Drama HD
 http://imaxplay.net:8880//live/BrandonVillavicencio08/JSUHJ/219126.ts
@@ -13,6 +13,7 @@ http://imaxplay.net:8880//live/BrandonVillavicencio08/JSUHJ/218838.ts
 
 #EXTINF:-1,Young Hollywood
 http://imaxplay.net:8880//live/BrandonVillavicencio08/JSUHJ/218719.ts
+
 
 
 
