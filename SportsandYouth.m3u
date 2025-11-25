@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,EN | KANAL D DRAMA
+#EXTINF:-1 tvg-name="EN | KANAL D DRAMA",EN | KANAL D DRAMA
 http://2k.tstvs.com/691eba43db76f/d07ee0f057/551772
 
 #EXTINF:-1,Drama HD
@@ -13,3 +13,4 @@ http://imaxplay.net:8880//live/BrandonVillavicencio08/JSUHJ/218838.ts
 
 #EXTINF:-1,Young Hollywood
 http://imaxplay.net:8880//live/BrandonVillavicencio08/JSUHJ/218719.ts
+
