@@ -1,0 +1,8 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="YouTube Video 1" tvg-logo="https://example.com/youtube-logo.png" group-title="YouTube",YouTube Video 1
+https://www.youtube-nocookie.com/embed/IBuAcX4ZPZY
+#EXTINF:-1 tvg-id="" tvg-name="YouTube Video 2" tvg-logo="https://example.com/youtube-logo.png" group-title="YouTube",YouTube Video 2
+https://www.youtube-nocookie.com/embed/p7rUqNRXRB0
+#EXTINF:-1 tvg-id="" tvg-name="YouTube Video 3" tvg-logo="https://example.com/youtube-logo.png" group-title="YouTube",YouTube Video 3
+https://www.youtube-nocookie.com/embed/aHtKZEPSv7o
+... وهكذا لباقي الروابط
