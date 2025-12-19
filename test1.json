@@ -1,0 +1,34 @@
+{
+  "programs": [
+    {
+      "name": "الشيخ ابن عثيمين",
+      "videos": [
+        {
+          "title": "ابن عثيمين – الدرس 1",
+          "url": "https://dc719.4shared.com/img/zOF5_fG4ge/3d29e201/dlink__2Fdownload_2FzOF5_5FfG4ge_3Fsbsr_3D402160a125b3eff82de13888f0da20ddb68_26bip_3DMzcuMjAwLjI0Ny4xNTU_26lgfp_3D20_26dsid_3DlpBzihzB.9bf21435aa031485e97c42e1aefc6a5f_26bip_3DMzcuMjAwLjI0Ny4xNTU_26bip_3DMzcuMjAwLjI0Ny4xNTU/preview.mp4",
+          "duration": 1503000
+        },
+        {
+          "title": "ابن عثيمين – الدرس 2",
+          "url": "https://dc719.4shared.com/img/zOF5_fG4ge/3d29e201/dlink__2Fdownload_2FzOF5_5FfG4ge_3Fsbsr_3D402160a125b3eff82de13888f0da20ddb68_26bip_3DMzcuMjAwLjI0Ny4xNTU_26lgfp_3D20_26dsid_3DlpBzihzB.9bf21435aa031485e97c42e1aefc6a5f_26bip_3DMzcuMjAwLjI0Ny4xNTU_26bip_3DMzcuMjAwLjI0Ny4xNTU/preview.mp4",
+          "duration": 1503000
+        }
+      ]
+    },
+    {
+      "name": "الشيخ الخليلي",
+      "videos": [
+        {
+          "title": "الخليلي – المحاضرة 1",
+          "url": "https://dc719.4shared.com/img/zOF5_fG4ge/3d29e201/dlink__2Fdownload_2FzOF5_5FfG4ge_3Fsbsr_3D402160a125b3eff82de13888f0da20ddb68_26bip_3DMzcuMjAwLjI0Ny4xNTU_26lgfp_3D20_26dsid_3DlpBzihzB.9bf21435aa031485e97c42e1aefc6a5f_26bip_3DMzcuMjAwLjI0Ny4xNTU_26bip_3DMzcuMjAwLjI0Ny4xNTU/preview.mp4",
+          "duration": 1503000
+        },
+        {
+          "title": "الخليلي – المحاضرة 2",
+          "url": "https://dc719.4shared.com/img/zOF5_fG4ge/3d29e201/dlink__2Fdownload_2FzOF5_5FfG4ge_3Fsbsr_3D402160a125b3eff82de13888f0da20ddb68_26bip_3DMzcuMjAwLjI0Ny4xNTU_26lgfp_3D20_26dsid_3DlpBzihzB.9bf21435aa031485e97c42e1aefc6a5f_26bip_3DMzcuMjAwLjI0Ny4xNTU_26bip_3DMzcuMjAwLjI0Ny4xNTU/preview.mp4",
+          "duration": 1503000
+        }
+      ]
+    }
+  ]
+}
