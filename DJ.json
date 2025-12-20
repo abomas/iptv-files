@@ -1,4 +1,7 @@
-{ 
+<div id="playerContainer"></div>
+
+<script>
+const channel = {  
     "nanoid":"M5vr3dvFgQcpNs",
     "name":"RTD",
     "iptv_urls":[],
@@ -6,4 +9,19 @@
     "language":"fra",
     "country":"dj",
     "isGeoBlocked":false
+};
+
+// توليد iframe ديناميكياً من JSON
+if(channel.youtube_urls.length > 0){
+  const iframe = document.createElement("iframe");
+  iframe.width = "1027";
+  iframe.height = "578";
+  iframe.src = channel.youtube_urls[0];
+  iframe.title = channel.name;
+  iframe.frameBorder = "0";
+  iframe.allow = "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share";
+  iframe.allowFullscreen = true;
+
+  document.getElementById("playerContainer").appendChild(iframe);
 }
+</script>
