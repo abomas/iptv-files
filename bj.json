@@ -2,9 +2,10 @@
   {
     "nanoid": "EgspbzPRaIJYXi",
     "name": "ADO TV",
-    "iptv_urls": ["https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8"],
+    "iptv_urls": [],
     "youtube_urls": ["https://www.youtube.com/embed/rWdSlOwnpN0"],
     "language": "fra",
     "country": "bj",
     "isGeoBlocked": false
   }
+]
