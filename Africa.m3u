@@ -1,45 +1,4 @@
-#EXTM3U
-#EXTINF:-1,beIN SPORTS 1 SD (S1)
-http://ibo.lynxiptv.com/live/652822099208/hSoljSPI6i/67392.ts
-#EXTINF:-1,beIN SPORTS 1 SD (S2)
-http://ibo.lynxiptv.com/live/652822099208/hSoljSPI6i/196189.ts
-#EXTINF:-1,beIN SPORTS 2 SD (S1)
-http://ibo.lynxiptv.com/live/652822099208/hSoljSPI6i/67393.ts
-#EXTINF:-1,beIN SPORTS 2 SD (S2)
-http://ibo.lynxiptv.com/live/652822099208/hSoljSPI6i/196190.ts
-#EXTINF:-1,beIN SPORTS 3 SD (S1)
-http://ibo.lynxiptv.com/live/652822099208/hSoljSPI6i/67394.ts
-#EXTINF:-1,beIN SPORTS 3 SD (S2)
-http://ibo.lynxiptv.com/live/652822099208/hSoljSPI6i/196191.ts
-#EXTINF:-1,beIN SPORTS 4 SD (S1)
-http://ibo.lynxiptv.com/live/652822099208/hSoljSPI6i/67395.ts
-#EXTINF:-1,beIN SPORTS 4 SD (S2)
-http://ibo.lynxiptv.com/live/652822099208/hSoljSPI6i/196192.ts
-#EXTINF:-1,beIN SPORTS 5 SD (S1)
-http://ibo.lynxiptv.com/live/652822099208/hSoljSPI6i/67396.ts
-#EXTINF:-1,beIN SPORTS 5 SD (S2)
-http://ibo.lynxiptv.com/live/652822099208/hSoljSPI6i/196193.ts
-#EXTINF:-1,beIN SPORTS 6 SD (S1)
-http://ibo.lynxiptv.com/live/652822099208/hSoljSPI6i/67397.ts
-#EXTINF:-1,beIN SPORTS 6 SD (S2)
-http://ibo.lynxiptv.com/live/652822099208/hSoljSPI6i/196194.ts
-#EXTINF:-1,beIN SPORTS 7 SD (S1)
-http://ibo.lynxiptv.com/live/652822099208/hSoljSPI6i/67398.ts
-#EXTINF:-1,beIN SPORTS 7 SD (S2)
-http://ibo.lynxiptv.com/live/652822099208/hSoljSPI6i/196195.ts
-#EXTINF:-1,beIN SPORTS 8 SD (S1)
-http://ibo.lynxiptv.com/live/652822099208/hSoljSPI6i/67399.ts
-#EXTINF:-1,beIN SPORTS 8 SD (S2)
-http://ibo.lynxiptv.com/live/652822099208/hSoljSPI6i/196196.ts
-#EXTINF:-1,beIN SPORTS 9 SD (S1)
-http://ibo.lynxiptv.com/live/652822099208/hSoljSPI6i/67400.ts
-#EXTINF:-1,beIN SPORTS 9 SD (S2)
-http://ibo.lynxiptv.com/live/652822099208/hSoljSPI6i/196197.ts
-#EXTINF:-1,FR: BEIN SPORTS 1 SD
-http://ibo.lynxiptv.com/live/652822099208/hSoljSPI6i/157873.ts
-#EXTINF:-1,FR: BEIN SPORTS 2 SD
-http://ibo.lynxiptv.com/live/652822099208/hSoljSPI6i/157874.ts
-#EXTINF:-1,FR: BEIN SPORTS 3 SD
+
 http://ibo.lynxiptv.com/live/652822099208/hSoljSPI6i/157875.ts
 #EXTINF:-1,AR: STARZPLAY SPORTS 1 SD
 http://ibo.lynxiptv.com/live/652822099208/hSoljSPI6i/222664.ts
@@ -117,3 +76,4 @@ http://ibo.lynxiptv.com/live/652822099208/hSoljSPI6i/221613.ts
 http://ibo.lynxiptv.com/live/652822099208/hSoljSPI6i/221616.ts
 #EXTINF:-1,ROM: Extreme Sports Channel
 http://ibo.lynxiptv.com/live/652822099208/hSoljSPI6i/190552.ts
+
