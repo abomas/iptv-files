@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="" tvg-name="Live Stream" tvg-logo="",Live Stream
 http://spiinternational-i.akamaihd.net/hls/live/204308/FIGHTBOXHD_MT_HLS/once1200.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Medine (Islamic)" tvg-logo="" group-title="Religious",Medine (Islamic)
-http://46.245.160.224/medine/medine/gmswf.m3u8
+http://46.245.160.224/medine/medine/gmswf.ts
 #EXTINF:-1 tvg-id="" tvg-name="Live Stream" tvg-logo="",Live Stream
 http://bcoveliveios-i.akamaihd.net/hls/live/207272/2176530207001/3abnProclaim/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Www Tv3 Cat" tvg-logo="",Www Tv3 Cat
