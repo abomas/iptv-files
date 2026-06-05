@@ -2,3 +2,6 @@
 
 #EXTINF:-1 tvg-id="ch1" tvg-name="Channel 1" group-title="Live",Channel 1
 https://stream.hls123.uk/live/ch1/index.m3u8
+
+#EXTINF:-1 tvg-id="ch1" tvg-name="Channel 1" group-title="Live",Channel 1
+https://stream.hls123.uk/live/ch1/index.m3u8
