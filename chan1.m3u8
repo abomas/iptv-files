@@ -1,4 +1,3 @@
-#EXTM3U8
-
-#EXTINF:-1 tvg-id="ch1" tvg-name="Channel 1" group-title="Live",Channel 1
-https://gitlab.com/free-iptv1/freeiptv/-/raw/main/Brazilian_Portuguese_Channels.m3u
+#EXTM3U
+#EXTINF:-1,24H Pinky e Cérebro
+http://srvdigital.fun:80/Andrielly.Silva/Br131221/3920556
